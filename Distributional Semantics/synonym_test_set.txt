@@ -1,0 +1,6000 @@
+structure	plan
+structure	weave
+structure	carry
+structure	smack
+structure	fight
+
+whisper	murmur
+whisper	charge
+whisper	blink
+whisper	pollute
+whisper	group
+
+nose	neb
+nose	spin
+nose	sweep
+nose	relinquish
+nose	travel
+
+foist	lift
+foist	hold_still
+foist	take_apart
+foist	brawl
+foist	charge
+
+accustom	get
+accustom	classify
+accustom	place
+accustom	expand
+accustom	twist
+
+organise	group
+organise	imply
+organise	plan
+organise	aerate
+organise	stir
+
+disjoint	disturb
+disjoint	overwhelm
+disjoint	change
+disjoint	sparkle
+disjoint	understand
+
+screech	scream
+screech	limit
+screech	write
+screech	comment
+screech	conclude
+
+bill	account
+bill	attempt
+bill	stir
+bill	change_course
+bill	define
+
+deteriorate	crumble
+deteriorate	sparkle
+deteriorate	inspect
+deteriorate	write
+deteriorate	make_easier
+
+edit	change
+edit	leave
+edit	sniff
+edit	rush
+edit	wrap
+
+twinkle	sparkle
+twinkle	figure_out
+twinkle	accomplish
+twinkle	pass_on
+twinkle	hold_a_gun
+
+accustom	familiarize
+accustom	cut
+accustom	add
+accustom	succeed
+accustom	wave
+
+consist	correspond
+consist	jump
+consist	put_together
+consist	write_down
+consist	tighten
+
+hone	sharpen
+hone	correct
+hone	plan
+hone	woo
+hone	wake_up
+
+deteriorate	depreciate
+deteriorate	conclude
+deteriorate	close_one_eye
+deteriorate	bounce
+deteriorate	disengage
+
+amalgamate	join
+amalgamate	inebriate
+amalgamate	glob
+amalgamate	blink_one_eye
+amalgamate	murder
+
+resonate	echo
+resonate	press
+resonate	travel
+resonate	give_up
+resonate	show
+
+redirect	reinstruct
+redirect	proof
+redirect	touch
+redirect	plan
+redirect	aerate
+
+bulge	expand
+bulge	sweep
+bulge	work
+bulge	combine
+bulge	acquire
+
+resonate	reverberate
+resonate	date
+resonate	ship
+resonate	weave
+resonate	attempt
+
+ink	tattoo
+ink	secure
+ink	change
+ink	conquer
+ink	understand
+
+alert	warn
+alert	hit
+alert	like
+alert	smirk
+alert	pollute
+
+furl	spread
+furl	distend
+furl	weaken
+furl	wind
+furl	undermine
+
+try	attempt
+try	disturb
+try	visualize
+try	turn_on
+try	prepare
+
+deduce	conclude
+deduce	enter
+deduce	declare
+deduce	add
+deduce	build
+
+bulge	expand
+bulge	murmur
+bulge	clean_up
+bulge	move
+bulge	encourage
+
+swat	hit
+swat	cut
+swat	cross
+swat	sound
+swat	centralize
+
+export	ship
+export	stroke
+export	let_escape
+export	limit
+export	prove
+
+simper	smirk
+simper	pollute
+simper	attempt
+simper	date
+simper	trim
+
+journey	travel
+journey	write
+journey	get_dirty
+journey	reroute
+journey	echo
+
+fancy	like
+fancy	smile
+fancy	figure_out
+fancy	conclude
+fancy	slap
+
+organise	arrange
+organise	misunderstand
+organise	squash
+organise	warn
+organise	write
+
+intoxicate	inebriate
+intoxicate	compile
+intoxicate	hit
+intoxicate	write
+intoxicate	dance
+
+iron	press
+iron	trim
+iron	adverse
+iron	identify
+iron	refocus
+
+catalogue	record
+catalogue	battle
+catalogue	pluck
+catalogue	copy
+catalogue	limit
+
+pine	long_for
+pine	charge
+pine	undermine
+pine	suggest
+pine	create_proof
+
+alert	notify
+alert	misunderstand
+alert	categorize
+alert	stop
+alert	include
+
+corrupt	spoil
+corrupt	inspect
+corrupt	record
+corrupt	expand
+corrupt	long
+
+disclose	reveal
+disclose	succeed
+disclose	arrange
+disclose	reason
+disclose	total
+
+disclose	share
+disclose	reason
+disclose	offshore
+disclose	duplicate
+disclose	insert
+
+replicate	copy
+replicate	misuse
+replicate	beat
+replicate	enter
+replicate	want
+
+spiral	spin
+spiral	create_columns
+spiral	scream
+spiral	weaken
+spiral	squeeze
+
+whisper	talk_softly
+whisper	fight
+whisper	focus
+whisper	change
+whisper	put_together
+
+implicate	associate
+implicate	excuse
+implicate	visit
+implicate	include
+implicate	distinguish
+
+devolve	pass_on
+devolve	punch
+devolve	scream
+devolve	murmur
+devolve	admire
+
+pontificate	address
+pontificate	duplicate
+pontificate	come
+pontificate	make_efficient
+pontificate	scribe
+
+devolve	regress
+devolve	insert
+devolve	forgive
+devolve	spread
+devolve	file
+
+pardon	excuse
+pardon	infect
+pardon	add
+pardon	echo
+pardon	travel
+
+fancy	like
+fancy	spread
+fancy	collect
+fancy	discern
+fancy	chop
+
+power	energize
+power	bound
+power	woo
+power	compile
+power	create_proof
+
+tabulate	add
+tabulate	quarrel
+tabulate	compile
+tabulate	absolve
+tabulate	notify
+
+pine	yearn
+pine	swell
+pine	conclude
+pine	squash
+pine	write
+
+abuse	hurt
+abuse	send
+abuse	press
+abuse	wake_up
+abuse	weave
+
+term	name
+term	prove
+term	shape
+term	arouse
+term	fall_apart
+
+foist	deceive
+foist	hit
+foist	quarrel
+foist	whine
+foist	travel
+
+export	ship
+export	demoralize
+export	activate
+export	expound
+export	inform
+
+confine	limit
+confine	infect
+confine	total
+confine	bang
+confine	distend
+
+iron	press
+iron	write
+iron	warn
+iron	slay
+iron	avoid
+
+accustom	familiarize
+accustom	copy
+accustom	alter
+accustom	misinterpret
+accustom	punch
+
+trim	cut
+trim	shriek
+trim	despoil
+trim	visualize
+trim	divide
+
+zigzag	weave
+zigzag	resound
+zigzag	flap
+zigzag	whip
+zigzag	jump
+
+furl	wrap
+furl	misuse
+furl	warn
+furl	copy
+furl	dislocate
+
+tour	take_a_journey
+tour	write
+tour	hurt
+tour	conclude
+tour	quarrel
+
+tabulate	compile
+tabulate	write
+tabulate	add
+tabulate	talk_together
+tabulate	record
+
+accustom	familiarize
+accustom	occupy
+accustom	total
+accustom	form
+accustom	blend
+
+tour	travel
+tour	solve
+tour	heap
+tour	clarify
+tour	write
+
+consist	be
+consist	unite
+consist	void
+consist	attempt
+consist	arrange
+
+screech	scream
+screech	criticize
+screech	roll_up
+screech	quarrel
+screech	attempt
+
+court	flatter
+court	conclude
+court	disturb
+court	lift
+court	labor
+
+appall	dishonour
+appall	familiarize
+appall	roll_up
+appall	hurt
+appall	warn
+
+arrive	reach
+arrive	plan
+arrive	pass_on
+arrive	charge
+arrive	hit
+
+bulge	protrude
+bulge	squeeze
+bulge	inebriate
+bulge	stop
+bulge	make_easier
+
+inhabit	live
+inhabit	charge
+inhabit	desire
+inhabit	fight
+inhabit	accomplish
+
+park	settle
+park	move
+park	reduce
+park	familiarize
+park	sparkle
+
+contaminate	taint
+contaminate	carry
+contaminate	reproduce
+contaminate	separate
+contaminate	carry
+
+arrive	reach
+arrive	shape
+arrive	sit_still
+arrive	classify
+arrive	travel
+
+hone	sharpen
+hone	cuddle
+hone	spoil
+hone	add
+hone	misuse
+
+try	attempt
+try	spread
+try	misuse
+try	dance
+try	divide
+
+wink	squint
+wink	decipher
+wink	date
+wink	arrange
+wink	arise
+
+constrict	compress
+constrict	sort
+constrict	travel
+constrict	shine
+constrict	pass_on
+
+whisk	stir
+whisk	curl
+whisk	press
+whisk	spin
+whisk	sharpen
+
+lump	ball
+lump	echo
+lump	bounce
+lump	succeed
+lump	end
+
+pardon	forgive
+pardon	conclude
+pardon	be
+pardon	invoice
+pardon	separate
+
+trim	cut
+trim	create
+trim	poison
+trim	place
+trim	whine
+
+tabulate	record
+tabulate	cascade
+tabulate	exonerate
+tabulate	hit
+tabulate	neb
+
+try	attempt
+try	massage
+try	long_for
+try	encourage
+try	scribe
+
+constrict	obstruct
+constrict	activate
+constrict	orient
+constrict	write
+constrict	wind
+
+disjoint	dismember
+disjoint	reinstruct
+disjoint	talk_softly
+disjoint	press
+disjoint	move
+
+uplift	encourage
+uplift	be_strong
+uplift	travel
+uplift	engrave
+uplift	pluck
+
+confer	consult
+confer	decipher
+confer	determine
+confer	attempt
+confer	charge
+
+fancy	imagine
+fancy	write_down
+fancy	terminate
+fancy	tattoo
+fancy	break_in
+
+bulge	distend
+bulge	correct
+bulge	relinquish
+bulge	flatter
+bulge	undulate
+
+inscribe	cut
+inscribe	scream
+inscribe	write
+inscribe	smile
+inscribe	infect
+
+boom	bang
+boom	scream
+boom	close
+boom	shock
+boom	fuel
+
+kill	murder
+kill	insinuate
+kill	expand
+kill	sparkle
+kill	arrange
+
+inscribe	engrave
+inscribe	sound
+inscribe	shock
+inscribe	finger
+inscribe	hold_a_gun
+
+sum	add
+sum	pass_off
+sum	murder
+sum	cuddle
+sum	rush
+
+strum	play_an_instrument
+strum	bring_to_a_stop
+strum	add
+strum	charge
+strum	group
+
+arrive	reach
+arrive	pick
+arrive	avoid
+arrive	pass_on
+arrive	cut
+
+strum	stroke
+strum	blend
+strum	fight
+strum	renounce
+strum	evade
+
+lop	cut
+lop	discuss
+lop	want
+lop	date
+lop	deteriorate
+
+evidence	prove
+evidence	live
+evidence	air
+evidence	orate
+evidence	build
+
+lump	bump
+lump	take_apart
+lump	tighten
+lump	fall_apart
+lump	like
+
+pine	desire
+pine	restrict
+pine	become_familiar
+pine	consolidate
+pine	discredit
+
+spring	lunge
+spring	show
+spring	attempt
+spring	despoil
+spring	expand
+
+redirect	deflect
+redirect	make_easier
+redirect	mark_off
+redirect	reduce
+redirect	misinterpret
+
+wink	close_one_eye
+wink	invoice
+wink	store
+wink	get_dirty
+wink	dig
+
+arm	secure
+arm	organize
+arm	flatten
+arm	caress
+arm	fight
+
+confine	restrict
+confine	weaponize
+confine	bang
+confine	assume
+confine	stir
+
+zone	tune_out
+zone	get_to
+zone	depreciate
+zone	add
+zone	be_made_up_of
+
+strum	play
+strum	come_apart
+strum	bump
+strum	simplify
+strum	write_down
+
+pontificate	preach
+pontificate	create
+pontificate	reverberate
+pontificate	frame
+pontificate	figure_out
+
+nose	dig
+nose	clean_up
+nose	add
+nose	want
+nose	grow
+
+replicate	copy
+replicate	certificate
+replicate	hit
+replicate	make_smooth
+replicate	desire
+
+pardon	forgive
+pardon	secure
+pardon	scribe
+pardon	ship
+pardon	translate
+
+confine	keep
+confine	sign
+confine	explain
+confine	build
+confine	refocus
+
+strum	pick
+strum	blink_one_eye
+strum	interpret
+strum	imagine
+strum	leap
+
+fancy	believe
+fancy	frown
+fancy	stagnate
+fancy	identify
+fancy	sidle
+
+achieve	accomplish
+achieve	spin_in_circles
+achieve	enclose
+achieve	deceive
+achieve	sit_still
+
+pontificate	orate
+pontificate	explain
+pontificate	hit
+pontificate	conclude
+pontificate	activate
+
+swat	squash
+swat	charge
+swat	twist
+swat	misunderstand
+swat	terminate
+
+slam	hit
+slam	send
+slam	attack
+slam	compile
+slam	depreciate
+
+alert	warn
+alert	stimulate
+alert	arrange
+alert	stop
+alert	invoice
+
+inhabit	live
+inhabit	divide
+inhabit	tune_out
+inhabit	addle
+inhabit	total
+
+scribe	write
+scribe	despoil
+scribe	conceit
+scribe	centralize
+scribe	fight
+
+achieve	succeed
+achieve	leave
+achieve	press
+achieve	ship
+achieve	corrode
+
+appall	disgust
+appall	imply
+appall	imply
+appall	acquire
+appall	illustrate
+
+disclose	show
+disclose	energize
+disclose	exploit
+disclose	pluck
+disclose	cut
+
+immobilize	stagnate
+immobilize	arouse
+immobilize	intrude
+immobilize	ship
+immobilize	sharpen
+
+fan	flap
+fan	write
+fan	combine
+fan	reason
+fan	attempt
+
+arm	activate
+arm	place
+arm	shriek
+arm	charge
+arm	resound
+
+inhabit	occupy
+inhabit	assume
+inhabit	record
+inhabit	dislocate
+inhabit	blend
+
+spiral	spin_in_circles
+spiral	murmur
+spiral	compress
+spiral	smile
+spiral	make_noise
+
+construe	translate
+construe	correct
+construe	cut
+construe	divert
+construe	offshore
+
+disjoint	disturb
+disjoint	warn
+disjoint	place
+disjoint	flat
+disjoint	impose
+
+fancy	admire
+fancy	rule
+fancy	be_made_up_of
+fancy	force_upon
+fancy	discuss
+
+alert	warn
+alert	depreciate
+alert	prove
+alert	weaken
+alert	make_noise
+
+intoxicate	stimulate
+intoxicate	flat
+intoxicate	flirt
+intoxicate	mingle
+intoxicate	woo
+
+achieve	accomplish
+achieve	weaken
+achieve	associate
+achieve	categorize
+achieve	prove
+
+misconstrue	misunderstand
+misconstrue	clarify
+misconstrue	sparkle
+misconstrue	show
+misconstrue	elevate
+
+bill	charge
+bill	arrange
+bill	wrap
+bill	write
+bill	evade
+
+replicate	duplicate
+replicate	blend
+replicate	focus
+replicate	spin
+replicate	separate
+
+scribe	write
+scribe	show
+scribe	smile
+scribe	get
+scribe	divert
+
+construe	assume
+construe	reference
+construe	live
+construe	terminate
+construe	cut
+
+catalogue	collect
+catalogue	reach
+catalogue	sparkle
+catalogue	come_apart
+catalogue	stimulate
+
+try	attempt
+try	misinterpret
+try	hit
+try	compress
+try	divide
+
+misconstrue	misunderstand
+misconstrue	create
+misconstrue	sort
+misconstrue	organize
+misconstrue	stop
+
+toil	work
+toil	conceit
+toil	date
+toil	smooth
+toil	focus
+
+term	name
+term	separate
+term	collect
+term	gather
+term	be_coy
+
+foist	uproot
+foist	throw
+foist	tighten
+foist	murder
+foist	talk_softly
+
+zone	focus
+zone	sharpen
+zone	insert
+zone	blink
+zone	write
+
+picture	imagine
+picture	distend
+picture	like
+picture	blink_one_eye
+picture	woo
+
+invalidate	disprove
+invalidate	raise
+invalidate	cede
+invalidate	bounce
+invalidate	take_a_journey
+
+iron	press
+iron	write
+iron	equal
+iron	date
+iron	attempt
+
+strum	pluck
+strum	press
+strum	discredit
+strum	tighten
+strum	write
+
+tabulate	tally
+tabulate	mark
+tabulate	make_efficient
+tabulate	paste
+tabulate	imply
+
+catalogue	sort
+catalogue	include
+catalogue	pare
+catalogue	understand
+catalogue	imprison
+
+trim	cut
+trim	murder
+trim	hit
+trim	adverse
+trim	visualize
+
+misconstrue	misinterpret
+misconstrue	attempt
+misconstrue	tune_out
+misconstrue	group
+misconstrue	add
+
+wink	blink
+wink	sparkle
+wink	familiarize
+wink	separate
+wink	cut
+
+fancy	desire
+fancy	discourage_with_fear
+fancy	squeeze
+fancy	speak_secretly
+fancy	come_apart
+
+contrast	compare
+contrast	attempt
+contrast	despoil
+contrast	correct
+contrast	crumble
+
+critique	evaluate
+critique	get_used_to
+critique	classify
+critique	be
+critique	discuss
+
+split	separate
+split	smooth
+split	limit
+split	record
+split	resend
+
+invade	conquer
+invade	exonerate
+invade	compare
+invade	desire
+invade	restrict
+
+export	ship
+export	breathe
+export	forgive
+export	imply
+export	travel
+
+boom	make_noise
+boom	write
+boom	pass_on
+boom	swell
+boom	hurt
+
+sum	add
+sum	leave
+sum	touch
+sum	swerve
+sum	designate
+
+misconstrue	misunderstand
+misconstrue	show_differences
+misconstrue	spread
+misconstrue	bind
+misconstrue	labor
+
+screech	scream
+screech	make_evil
+screech	come_apart
+screech	talk_softly
+screech	misinterpret
+
+replicate	duplicate
+replicate	hit
+replicate	dismember
+replicate	evade
+replicate	list
+
+structure	plan
+structure	understand_wrongly
+structure	squash
+structure	shine
+structure	speak_softly
+
+bop	hit
+bop	accomplish
+bop	provide_proof
+bop	disparity
+bop	misunderstand
+
+organise	arrange
+organise	insert
+organise	disarrange
+organise	terminate
+organise	fuel
+
+constrict	tighten
+constrict	fight
+constrict	review
+constrict	alter
+constrict	attempt
+
+immobilize	stun
+immobilize	build
+immobilize	excuse
+immobilize	smooth
+immobilize	be
+
+sum	total
+sum	inspect
+sum	make_smooth
+sum	stroke
+sum	discuss
+
+deteriorate	decay
+deteriorate	reverberate
+deteriorate	reach
+deteriorate	separate
+deteriorate	stir
+
+nose	investigate
+nose	conclude
+nose	show_up
+nose	send
+nose	overwhelm
+
+lop	glob
+lop	date
+lop	mix_up
+lop	add_up
+lop	mistreat
+
+invalidate	discredit
+invalidate	create
+invalidate	reveal
+invalidate	hold_still
+invalidate	beat
+
+hone	whet
+hone	shriek
+hone	arrive
+hone	desire
+hone	gesture
+
+edit	modify
+edit	stop
+edit	blow_air
+edit	clean_up
+edit	conclude
+
+construe	interpret
+construe	limit
+construe	be_strong
+construe	print
+construe	whet
+
+polish	smooth
+polish	divide
+polish	spin
+polish	ship
+polish	stop
+
+implicate	imply
+implicate	familiarize
+implicate	make_evil
+implicate	create_columns
+implicate	shine
+
+inscribe	engrave
+inscribe	inventory
+inscribe	duplicate
+inscribe	wrap
+inscribe	disgust
+
+battle	fight
+battle	sweep
+battle	lift
+battle	slap
+battle	sparkle
+
+fancy	admire
+fancy	wake_up
+fancy	refer
+fancy	let_escape
+fancy	heap
+
+catalogue	file
+catalogue	make_easier
+catalogue	produce
+catalogue	consolidate
+catalogue	attempt
+
+park	place
+park	lift
+park	name
+park	hit
+park	trade
+
+document	scribe
+document	clarify
+document	investigate
+document	arrange
+document	explain
+
+furl	frown
+furl	copy
+furl	elevate
+furl	bang
+furl	wave
+
+accustom	orient
+accustom	reach
+accustom	review
+accustom	imagine
+accustom	decay
+
+trim	cut
+trim	understand
+trim	attempt
+trim	travel
+trim	scream
+
+consist	enclose
+consist	reveal
+consist	cut
+consist	wind
+consist	absolve
+
+accustom	familiarize
+accustom	reason
+accustom	paste
+accustom	undermine
+accustom	proof
+
+power	fuel
+power	let_escape
+power	misuse
+power	talk_softly
+power	dig
+
+spring	hop
+spring	separate
+spring	bang
+spring	wage_war
+spring	pollute
+
+slam	bang
+slam	travel
+slam	stop
+slam	sharpen
+slam	attempt
+
+export	ship
+export	yearn
+export	sniff
+export	chop
+export	carry
+
+confine	imprison
+confine	blast
+confine	ship
+confine	classify
+confine	charge
+
+consist	include
+consist	occupy
+consist	conquer
+consist	sit_still
+consist	oppose
+
+power	energize
+power	restrict
+power	pluck
+power	throw
+power	come
+
+uplift	support
+uplift	sharpen
+uplift	differentiate
+uplift	determine
+uplift	bang
+
+appall	shock
+appall	labor
+appall	break_up
+appall	cut
+appall	bump
+
+fancy	desire
+fancy	tune_out
+fancy	equal
+fancy	ship
+fancy	change
+
+alert	warn
+alert	discuss
+alert	provide_proof
+alert	dislocate
+alert	woo
+
+resonate	reverberate
+resonate	speak_secretly
+resonate	pain
+resonate	warn
+resonate	jump
+
+uplift	raise
+uplift	rustle
+uplift	massage
+uplift	mix
+uplift	excuse
+
+devolve	transfer
+devolve	warn
+devolve	distinguish
+devolve	consult
+devolve	write
+
+corrupt	exploit
+corrupt	switch
+corrupt	copy
+corrupt	travel
+corrupt	caress
+
+implicate	associate
+implicate	punch
+implicate	live
+implicate	disturb
+implicate	overwhelm
+
+strum	finger
+strum	blink
+strum	mistreat
+strum	shine
+strum	charge
+
+slam	throw
+slam	record
+slam	determine
+slam	define
+slam	cut
+
+fight	clash
+fight	add
+fight	woo
+fight	makeup
+fight	air
+
+bop	dance
+bop	write
+bop	mix_up
+bop	prime
+bop	murder
+
+emasculate	criticize
+emasculate	separate
+emasculate	pollute
+emasculate	excuse
+emasculate	name
+
+intoxicate	elate
+intoxicate	understand
+intoxicate	record
+intoxicate	cuddle
+intoxicate	unite
+
+zigzag	cross
+zigzag	designate
+zigzag	see
+zigzag	battle
+zigzag	slay
+
+hone	sharpen
+hone	murder
+hone	travel
+hone	show_up
+hone	pare
+
+spring	bound
+spring	sound
+spring	correct
+spring	weaken
+spring	wake_up
+
+nose	sidle
+nose	finish
+nose	accomplish
+nose	go_on_vacation
+nose	murmur
+
+tour	take_a_journey
+tour	pass_on
+tour	travel
+tour	group
+tour	discuss
+
+fight	battle
+fight	create
+fight	slap
+fight	sparkle
+fight	massage
+
+spiral	spin
+spiral	grow
+spiral	fuel
+spiral	dig
+spiral	refer
+
+screech	shriek
+screech	function
+screech	aggregate
+screech	frighten
+screech	misunderstand
+
+arm	hold_a_gun
+arm	buff
+arm	explode
+arm	copy
+arm	abolish
+
+trim	cut
+trim	discredit
+trim	accumulate
+trim	conceit
+trim	infer
+
+inscribe	carve
+inscribe	determine
+inscribe	encourage
+inscribe	slap
+inscribe	be_strong
+
+invade	conquer
+invade	disarrange
+invade	get_used_to
+invade	labor
+invade	roll_up
+
+awaken	wake_up
+awaken	create_columns
+awaken	mistake
+awaken	shine
+awaken	clean
+
+polish	make_smooth
+polish	stir
+polish	hit
+polish	wind
+polish	paste
+
+pardon	forgive
+pardon	conquer
+pardon	want
+pardon	weave
+pardon	create
+
+invade	attack
+invade	close_one_eye
+invade	print
+invade	gather
+invade	squash
+
+interpret	decipher
+interpret	disprove
+interpret	write_down
+interpret	cut
+interpret	conclude
+
+contaminate	despoil
+contaminate	trade
+contaminate	centralize
+contaminate	lift
+contaminate	be_strong
+
+consist	include
+consist	write
+consist	limit
+consist	shorten
+consist	illustrate
+
+spiral	twist
+spiral	mistake
+spiral	enclose
+spiral	imply
+spiral	regress
+
+aggregate	open
+aggregate	deceive
+aggregate	date
+aggregate	color
+aggregate	play
+
+zone	focus
+zone	misunderstand
+zone	sidle
+zone	divide
+zone	swerve
+
+deduce	figure_out
+deduce	activate
+deduce	poke
+deduce	invoice
+deduce	comprise
+
+accustom	familiarize
+accustom	buff
+accustom	grapple
+accustom	reside
+accustom	wake_up
+
+implicate	suggest
+implicate	group
+implicate	sort
+implicate	ruin
+implicate	get
+
+bill	invoice
+bill	depreciate
+bill	create
+bill	forgive
+bill	curl
+
+fan	wind
+fan	see
+fan	shine
+fan	rise
+fan	familiarize
+
+document	record
+document	get_used_to
+document	copy
+document	uproot
+document	wake
+
+document	certificate
+document	travel
+document	wake_up
+document	sparkle
+document	reference
+
+tabulate	total
+tabulate	press
+tabulate	bat
+tabulate	blink_one_eye
+tabulate	disparity
+
+whisper	murmur
+whisper	whack
+whisper	struggle
+whisper	trade
+whisper	enter
+
+strum	play_an_instrument
+strum	reveal
+strum	speak_softly
+strum	arouse
+strum	reach
+
+battle	fight
+battle	succeed
+battle	plan
+battle	cut
+battle	fall_apart
+
+alert	warn
+alert	hurt
+alert	love_deeply
+alert	beat
+alert	figure_out
+
+construe	interpret
+construe	comment
+construe	separate
+construe	disarrange
+construe	dedicate
+
+boom	grow
+boom	engrave
+boom	imagine
+boom	create
+boom	list
+
+structure	arrange
+structure	discover
+structure	add
+structure	cut
+structure	sharpen
+
+wink	blink_one_eye
+wink	divide
+wink	rewrite
+wink	stagnate
+wink	deflect
+
+furl	roll_up
+furl	corrode
+furl	distinguish
+furl	attempt
+furl	want
+
+lop	trim
+lop	hit
+lop	write
+lop	smooth
+lop	like
+
+screech	scream
+screech	disparity
+screech	come_together
+screech	disengage
+screech	castrate
+
+structure	plan
+structure	rise
+structure	understand_wrongly
+structure	ball
+structure	grapple
+
+emasculate	weaken
+emasculate	chop
+emasculate	certificate
+emasculate	massage
+emasculate	let_escape
+
+invade	intrude
+invade	translate
+invade	travel
+invade	talk_together
+invade	imply
+
+disclose	reveal
+disclose	write
+disclose	be_made_up_of
+disclose	preach
+disclose	forgive
+
+split	break
+split	carry
+split	accomplish
+split	desire
+split	shine
+
+sum	add
+sum	blast
+sum	clean_up
+sum	twist
+sum	shine
+
+critique	study
+critique	crumble
+critique	arrange
+critique	rule
+critique	stop
+
+abdicate	cede
+abdicate	roll_up
+abdicate	change_course
+abdicate	come_apart
+abdicate	hit
+
+immobilize	sit_still
+immobilize	categorize
+immobilize	roll_up
+immobilize	fall_apart
+immobilize	duplicate
+
+nose	poke
+nose	pluck
+nose	uproot
+nose	buff
+nose	ship
+
+kill	murder
+kill	explain
+kill	woo
+kill	distinguish
+kill	succeed
+
+spring	jump
+spring	murmur
+spring	orient
+spring	like
+spring	identify
+
+pontificate	evangelize
+pontificate	be_coy
+pontificate	travel
+pontificate	electrify
+pontificate	collect
+
+trim	cut
+trim	provide_proof
+trim	involve
+trim	consolidate
+trim	bounce
+
+abuse	hurt
+abuse	cascade
+abuse	dwell
+abuse	write
+abuse	see
+
+whisk	rush
+whisk	makeup
+whisk	infect
+whisk	place
+whisk	weaken
+
+wink	flash
+wink	press
+wink	misinterpret
+wink	go_on_vacation
+wink	tune_out
+
+misconstrue	misunderstand
+misconstrue	stir
+misconstrue	be_formed
+misconstrue	protect
+misconstrue	imagine
+
+diagnose	discern
+diagnose	proof
+diagnose	conclude
+diagnose	send
+diagnose	makeup
+
+picture	imagine
+picture	jump
+picture	massage
+picture	play
+picture	struggle
+
+ink	tattoo
+ink	bang
+ink	sniff
+ink	simplify
+ink	add
+
+uplift	encourage
+uplift	lunge
+uplift	roll
+uplift	ascertain
+uplift	swell
+
+awaken	wake_up
+awaken	plan
+awaken	reason
+awaken	pass_off
+awaken	heads_up
+
+immobilize	hold_still
+immobilize	hurt
+immobilize	open
+immobilize	murmur
+immobilize	upset
+
+pardon	absolve
+pardon	quarrel
+pardon	obtain
+pardon	ascertain
+pardon	come_apart
+
+pine	yearn
+pine	reach
+pine	close
+pine	invoice
+pine	add
+
+disjoint	disarrange
+disjoint	inspire
+disjoint	chop
+disjoint	cede
+disjoint	discredit
+
+bulge	swell
+bulge	renounce
+bulge	inspire
+bulge	impose
+bulge	create
+
+confer	discuss
+confer	squint
+confer	wake_up
+confer	get_dirty
+confer	exploit
+
+aggregate	gather
+aggregate	energize
+aggregate	compare
+aggregate	smile
+aggregate	wind
+
+hone	sharpen
+hone	gesture
+hone	cuddle
+hone	reside
+hone	spin
+
+export	send_away
+export	finger
+export	swell
+export	group
+export	place
+
+power	charge
+power	combat
+power	fade
+power	think
+power	accuse
+
+iron	press
+iron	accomplish
+iron	provide_proof
+iron	electrify
+iron	labor
+
+critique	evaluate
+critique	formulate
+critique	sharpen
+critique	attempt
+critique	fight
+
+bulge	protrude
+bulge	cross
+bulge	curl
+bulge	join
+bulge	cut
+
+try	attempt
+try	swell
+try	murmur
+try	conceit
+try	excite
+
+slam	criticize
+slam	stroke
+slam	want
+slam	spoil
+slam	fight
+
+bulge	expand
+bulge	separate
+bulge	conclude
+bulge	force_upon
+bulge	write
+
+rub	massage
+rub	depreciate
+rub	inquire
+rub	divide
+rub	ship
+
+critique	review
+critique	associate
+critique	form
+critique	write
+critique	total
+
+scribe	write
+scribe	ball
+scribe	become_familiar
+scribe	close
+scribe	phrase
+
+aggregate	compile
+aggregate	hit
+aggregate	put_down
+aggregate	divert
+aggregate	orient
+
+sum	add
+sum	play
+sum	make_efficient
+sum	enclose
+sum	reverberate
+
+corrupt	despoil
+corrupt	dance
+corrupt	judge
+corrupt	inebriate
+corrupt	decipher
+
+polish	shine
+polish	weave
+polish	build
+polish	group
+polish	flap
+
+allude	insinuate
+allude	review
+allude	duplicate
+allude	frown
+allude	divert
+
+construe	interpret
+construe	determine
+construe	expand
+construe	bang
+construe	murder
+
+ink	sign
+ink	uproot
+ink	formulate
+ink	pass
+ink	disconnect
+
+appall	upset
+appall	attempt
+appall	stir
+appall	explain
+appall	forgive
+
+bulge	swell
+bulge	restrict
+bulge	deteriorate
+bulge	weaken
+bulge	equal
+
+nose	edge_out
+nose	write
+nose	group
+nose	taint
+nose	assemble
+
+spiral	cascade
+spiral	impose
+spiral	separate
+spiral	desire
+spiral	accumulate
+
+whisper	breathe
+whisper	show
+whisper	cut
+whisper	excuse
+whisper	charge
+
+catalogue	organize
+catalogue	lecture
+catalogue	come_together
+catalogue	excuse
+catalogue	familiarize
+
+zone	focus
+zone	restrict
+zone	imprison
+zone	change
+zone	divide
+
+sum	add
+sum	whack
+sum	create
+sum	evangelize
+sum	cut
+
+disclose	reveal
+disclose	depreciate
+disclose	conceit
+disclose	play
+disclose	stroke
+
+nose	sidle
+nose	accuse
+nose	gather
+nose	bat
+nose	stop
+
+confer	talk_together
+confer	create
+confer	whine
+confer	associate
+confer	fall_apart
+
+devolve	regress
+devolve	bring_to_a_stop
+devolve	identify
+devolve	shriek
+devolve	familiarize
+
+kill	terminate
+kill	travel
+kill	imply
+kill	massage
+kill	live
+
+disjoint	take_apart
+disjoint	carve
+disjoint	curl
+disjoint	write
+disjoint	share
+
+picture	imagine
+picture	include
+picture	wrap
+picture	separate
+picture	understand_wrongly
+
+whisk	stir
+whisk	warn
+whisk	blink
+whisk	comment
+whisk	pluck
+
+arrive	reach
+arrive	infect
+arrive	dedicate
+arrive	attempt
+arrive	roll
+
+whisk	stir
+whisk	imply
+whisk	attack
+whisk	speak_secretly
+whisk	buff
+
+critique	assess
+critique	produce
+critique	wake
+critique	travel
+critique	focus
+
+critique	evaluate
+critique	quarrel
+critique	sit_still
+critique	separate
+critique	dwell
+
+arm	fortify
+arm	sign
+arm	collect
+arm	break_up
+arm	occupy
+
+critique	evaluate
+critique	attempt
+critique	pass_on
+critique	expand
+critique	hit
+
+tabulate	organize
+tabulate	shriek
+tabulate	stagnate
+tabulate	reinstruct
+tabulate	gather
+
+screech	shriek
+screech	circulate_air
+screech	beat
+screech	arise
+screech	mistreat
+
+park	cuddle
+park	sort
+park	imagine
+park	wind
+park	shine
+
+document	record
+document	inspire
+document	write
+document	live
+document	exonerate
+
+nose	neb
+nose	echo
+nose	scream
+nose	combine
+nose	murder
+
+term	name
+term	offend
+term	echo
+term	smack
+term	create
+
+try	attempt
+try	make_efficient
+try	stroke
+try	excuse
+try	familiarize
+
+immobilize	come_together
+immobilize	cut
+immobilize	stimulate
+immobilize	work
+immobilize	desire
+
+fan	blow_on
+fan	encourage
+fan	attack
+fan	name
+fan	cut
+
+diagnose	conclude
+diagnose	sparkle
+diagnose	discredit
+diagnose	smooth
+diagnose	prime
+
+inhabit	dwell
+inhabit	blow_air
+inhabit	record
+inhabit	spin_in_circles
+inhabit	rustle
+
+pardon	forgive
+pardon	warn
+pardon	build
+pardon	group
+pardon	imply
+
+pine	long_for
+pine	intrude
+pine	create
+pine	encourage
+pine	suggest
+
+arrive	reach
+arrive	date
+arrive	make_noise
+arrive	murder
+arrive	discredit
+
+evidence	provide_proof
+evidence	divert
+evidence	discuss
+evidence	work
+evidence	sniff
+
+pontificate	think
+pontificate	divide
+pontificate	reside
+pontificate	twist
+pontificate	dye
+
+pontificate	rule
+pontificate	store
+pontificate	fortify
+pontificate	pare
+pontificate	copy
+
+structure	build
+structure	disgust
+structure	flap
+structure	labor
+structure	lecture
+
+lop	cut
+lop	attempt
+lop	grow
+lop	open
+lop	duplicate
+
+fan	spread
+fan	resend
+fan	reach
+fan	warn
+fan	fight
+
+battle	fight
+battle	paste
+battle	punch
+battle	send
+battle	absolve
+
+contrast	disparity
+contrast	ship
+contrast	separate
+contrast	flatten
+contrast	overwhelm
+
+critique	comment
+critique	phrase
+critique	reinstruct
+critique	attempt
+critique	spin
+
+fight	contend
+fight	misunderstand
+fight	chop
+fight	elate
+fight	struggle
+
+wink	flash
+wink	open
+wink	give_weapons
+wink	tune_out
+wink	place
+
+screech	scream
+screech	obstruct
+screech	combine
+screech	illustrate
+screech	flatter
+
+interpret	explain
+interpret	leave
+interpret	encourage
+interpret	long
+interpret	write
+
+uplift	raise
+uplift	create
+uplift	stop
+uplift	smooth
+uplift	work
+
+evidence	prove
+evidence	inebriate
+evidence	bounce
+evidence	blink
+evidence	smirk
+
+disjoint	separate
+disjoint	overtake
+disjoint	renounce
+disjoint	murder
+disjoint	form
+
+arrive	reach
+arrive	familiarize
+arrive	bump
+arrive	reroute
+arrive	change_course
+
+swat	slap
+swat	explain
+swat	stroke
+swat	disparity
+swat	combine
+
+pine	love_deeply
+pine	dislocate
+pine	assess
+pine	add_up
+pine	bang
+
+bop	dance
+bop	formulate
+bop	bang
+bop	make_noise
+bop	print
+
+invalidate	reject
+invalidate	shock
+invalidate	shine
+invalidate	restrict
+invalidate	ship
+
+allude	imply
+allude	charge
+allude	discuss
+allude	evangelize
+allude	cede
+
+achieve	succeed
+achieve	heap
+achieve	duplicate
+achieve	charge
+achieve	bring_to_a_stop
+
+inscribe	dedicate
+inscribe	translate
+inscribe	copy
+inscribe	sparkle
+inscribe	rise
+
+corrupt	twist
+corrupt	attempt
+corrupt	change
+corrupt	prove
+corrupt	total
+
+fight	battle
+fight	smooth
+fight	deteriorate
+fight	determine
+fight	forgive
+
+zone	focus
+zone	swell
+zone	succeed
+zone	squeeze
+zone	give_up
+
+power	charge
+power	comment
+power	duplicate
+power	certificate
+power	classify
+
+redirect	reroute
+redirect	write
+redirect	want
+redirect	cut
+redirect	restrict
+
+power	energize
+power	engrave
+power	disparity
+power	void
+power	depreciate
+
+constrict	squeeze
+constrict	depreciate
+constrict	aggregate
+constrict	work
+constrict	hit
+
+bop	smack
+bop	terminate
+bop	comment
+bop	identify
+bop	resound
+
+slam	throw
+slam	squeeze
+slam	murder
+slam	smirk
+slam	bounce
+
+split	divide
+split	share
+split	designate
+split	discern
+split	squint
+
+split	separate
+split	group
+split	grapple
+split	forgive
+split	discuss
+
+devolve	transfer
+devolve	conclude
+devolve	inquire
+devolve	excuse
+devolve	assemble
+
+diagnose	identify
+diagnose	prepare
+diagnose	travel
+diagnose	rush
+diagnose	electrify
+
+polish	shine
+polish	renounce
+polish	dwell
+polish	spin
+polish	mistreat
+
+document	write_down
+document	desire
+document	secure
+document	rustle
+document	disprove
+
+swat	flat
+swat	write
+swat	categorize
+swat	squint
+swat	ask
+
+screech	shriek
+screech	forgive
+screech	aerate
+screech	tighten
+screech	reveal
+
+iron	press
+iron	bound
+iron	murder
+iron	demoralize
+iron	jump
+
+picture	visualize
+picture	live
+picture	decay
+picture	identify
+picture	stir
+
+implicate	suggest
+implicate	evangelize
+implicate	focus
+implicate	depreciate
+implicate	wake_up
+
+split	separate
+split	disconnect
+split	separate
+split	hit
+split	cut
+
+journey	travel
+journey	compress
+journey	fight
+journey	cede
+journey	roll_up
+
+furl	wrap
+furl	dedicate
+furl	relinquish
+furl	charge
+furl	copy
+
+bop	bounce
+bop	bump
+bop	involve
+bop	undermine
+bop	blink_one_eye
+
+arrive	reach
+arrive	write
+arrive	ball
+arrive	yearn
+arrive	inspect
+
+catalogue	sort
+catalogue	slap
+catalogue	fight
+catalogue	change
+catalogue	arrange
+
+accustom	familiarize
+accustom	fight
+accustom	wind
+accustom	smirk
+accustom	collect
+
+swat	flat
+swat	twist
+swat	carry
+swat	get_dirty
+swat	consult
+
+spiral	spin_in_circles
+spiral	twist
+spiral	deceive
+spiral	reduce
+spiral	desire
+
+inhabit	occupy
+inhabit	discuss
+inhabit	oppose
+inhabit	energize
+inhabit	phrase
+
+pontificate	think
+pontificate	illustrate
+pontificate	accomplish
+pontificate	be_formed
+pontificate	wind
+
+achieve	get
+achieve	visit
+achieve	write
+achieve	travel
+achieve	create
+
+lop	chop
+lop	blend
+lop	think
+lop	bat
+lop	restrict
+
+polish	smooth
+polish	pollute
+polish	concentrate
+polish	record
+polish	jump
+
+sum	add
+sum	squeeze
+sum	inquire
+sum	divide
+sum	reveal
+
+awaken	wake
+awaken	twist
+awaken	conquer
+awaken	flash
+awaken	murmur
+
+fancy	like
+fancy	absolve
+fancy	resend
+fancy	pluck
+fancy	long_for
+
+twinkle	shine
+twinkle	like
+twinkle	imply
+twinkle	evade
+twinkle	live
+
+slam	shut_forcefully
+slam	come_together
+slam	sign
+slam	provide_proof
+slam	misinterpret
+
+immobilize	stop
+immobilize	oppose
+immobilize	travel
+immobilize	create
+immobilize	warn
+
+streamline	concentrate
+streamline	add
+streamline	write
+streamline	equal
+streamline	spread
+
+wink	blink_one_eye
+wink	limit
+wink	weave
+wink	clarify
+wink	travel
+
+rub	pressure
+rub	place
+rub	compress
+rub	ship
+rub	impose
+
+export	trade
+export	decay
+export	grow
+export	print
+export	forgive
+
+interpret	decipher
+interpret	poke
+interpret	shock
+interpret	force
+interpret	forgive
+
+nose	sniff
+nose	sparkle
+nose	hit
+nose	abolish
+nose	share
+
+achieve	accomplish
+achieve	evade
+achieve	scream
+achieve	attack
+achieve	mark_off
+
+fight	battle
+fight	make_efficient
+fight	decipher
+fight	regress
+fight	shine
+
+spring	jump
+spring	shine
+spring	attack
+spring	conclude
+spring	imply
+
+zigzag	weave
+zigzag	cut
+zigzag	protect
+zigzag	despoil
+zigzag	massage
+
+intoxicate	excite
+intoxicate	buff
+intoxicate	insert
+intoxicate	smooth
+intoxicate	explain
+
+awaken	wake_up
+awaken	include
+awaken	force
+awaken	create
+awaken	time
+
+inhabit	live
+inhabit	form
+inhabit	avoid
+inhabit	cut
+inhabit	suggest
+
+term	time
+term	arrange
+term	cordon
+term	excite
+term	record
+
+twinkle	sparkle
+twinkle	discuss
+twinkle	evade
+twinkle	categorize
+twinkle	like
+
+swat	hit
+swat	unite
+swat	familiarize
+swat	include
+swat	attempt
+
+zone	restrict
+zone	build
+zone	insert
+zone	bang
+zone	restrain
+
+replicate	copy
+replicate	obstruct
+replicate	touch
+replicate	scream
+replicate	stir
+
+inscribe	write
+inscribe	squint
+inscribe	add
+inscribe	struggle
+inscribe	bump
+
+nose	sniff
+nose	proof
+nose	abolish
+nose	total
+nose	bang
+
+ink	dye
+ink	record
+ink	record
+ink	weaken
+ink	cede
+
+awaken	arise
+awaken	spin
+awaken	combine
+awaken	classify
+awaken	poison
+
+organise	group
+organise	restrict
+organise	wave
+organise	write
+organise	divide
+
+lump	bump
+lump	combine
+lump	duplicate
+lump	sparkle
+lump	trade
+
+deteriorate	worsen
+deteriorate	labor
+deteriorate	insinuate
+deteriorate	forgo
+deteriorate	refine
+
+contaminate	spoil
+contaminate	separate
+contaminate	sharpen
+contaminate	criticize
+contaminate	change_course
+
+constrict	compress
+constrict	record
+constrict	oppose
+constrict	arrange
+constrict	offend
+
+devolve	come_apart
+devolve	arrange
+devolve	tattoo
+devolve	sparkle
+devolve	total
+
+battle	fight
+battle	trade
+battle	infer
+battle	disprove
+battle	write_down
+
+scribe	write
+scribe	orate
+scribe	smirk
+scribe	raise
+scribe	put_down
+
+interpret	make_sense_of
+interpret	scream
+interpret	roll_up
+interpret	tell
+interpret	compress
+
+foist	deceive
+foist	warn
+foist	duplicate
+foist	attempt
+foist	give_weapons
+
+twinkle	shine
+twinkle	aerate
+twinkle	hit
+twinkle	simplify
+twinkle	travel
+
+fan	wave
+fan	resound
+fan	sign
+fan	hit
+fan	secure
+
+contaminate	poison
+contaminate	write
+contaminate	give_up
+contaminate	group
+contaminate	stir
+
+aggregate	assemble
+aggregate	hit
+aggregate	dislocate
+aggregate	function
+aggregate	snoop
+
+disclose	inform
+disclose	designate
+disclose	clean
+disclose	adapt
+disclose	evangelize
+
+inhabit	reside
+inhabit	discredit
+inhabit	imagine
+inhabit	review
+inhabit	warn
+
+achieve	succeed
+achieve	quarrel
+achieve	reduce
+achieve	cut
+achieve	correct
+
+pine	want
+pine	murmur
+pine	cut
+pine	reason
+pine	classify
+
+sum	add
+sum	resend
+sum	write
+sum	close_one_eye
+sum	be_formed
+
+redirect	divert
+redirect	study
+redirect	identify
+redirect	group
+redirect	roll_up
+
+twinkle	sparkle
+twinkle	flatten
+twinkle	compile
+twinkle	build
+twinkle	infect
+
+fight	brawl
+fight	oppose
+fight	conclude
+fight	regress
+fight	rise
+
+accustom	become_familiar
+accustom	bang
+accustom	enclose
+accustom	bang
+accustom	long_for
+
+furl	curl
+furl	evade
+furl	smirk
+furl	combine
+furl	trade
+
+rub	stroke
+rub	mingle
+rub	want
+rub	attempt
+rub	compare
+
+implicate	accuse
+implicate	long_for
+implicate	duplicate
+implicate	renounce
+implicate	glob
+
+invade	encroach
+invade	discredit
+invade	wind
+invade	sign
+invade	misunderstand
+
+contaminate	get_dirty
+contaminate	discuss
+contaminate	group
+contaminate	record
+contaminate	separate
+
+arrive	get_to
+arrive	compile
+arrive	share
+arrive	visit
+arrive	date
+
+intoxicate	exhilarate
+intoxicate	infer
+intoxicate	chop
+intoxicate	struggle
+intoxicate	collect
+
+polish	smooth
+polish	create_proof
+polish	void
+polish	simplify
+polish	wake
+
+power	function
+power	deteriorate
+power	total
+power	attempt
+power	blow_air
+
+whisper	rustle
+whisper	smooth
+whisper	close
+whisper	ship
+whisper	discredit
+
+catalogue	classify
+catalogue	take_apart
+catalogue	write
+catalogue	sharpen
+catalogue	be_coy
+
+abdicate	renounce
+abdicate	imagine
+abdicate	bang
+abdicate	misunderstand
+abdicate	attempt
+
+catalogue	classify
+catalogue	battle
+catalogue	warn
+catalogue	attempt
+catalogue	discredit
+
+appall	frighten
+appall	assume
+appall	refer
+appall	whine
+appall	terminate
+
+inhabit	reside
+inhabit	spin
+inhabit	shine
+inhabit	hurt
+inhabit	organize
+
+achieve	accomplish
+achieve	smirk
+achieve	wake_up
+achieve	want
+achieve	discourage_with_fear
+
+scribe	write
+scribe	separate
+scribe	combine
+scribe	murder
+scribe	evade
+
+invade	conquer
+invade	stagnate
+invade	show_up
+invade	conceit
+invade	imagine
+
+kill	terminate
+kill	cut
+kill	record
+kill	understand_wrongly
+kill	transfer
+
+constrict	tighten
+constrict	restrict
+constrict	corrode
+constrict	invoice
+constrict	assess
+
+bop	hit
+bop	lecture
+bop	leap
+bop	stimulate
+bop	take_a_journey
+
+battle	fight
+battle	figure_out
+battle	reach
+battle	regress
+battle	concentrate
+
+edit	rewrite
+edit	long
+edit	work
+edit	accomplish
+edit	write
+
+constrict	squeeze
+constrict	join
+constrict	inform
+constrict	murder
+constrict	rub
+
+disjoint	dislocate
+disjoint	scream
+disjoint	attempt
+disjoint	twist
+disjoint	conclude
+
+lump	group
+lump	write
+lump	mistreat
+lump	excite
+lump	make_efficient
+
+devolve	pass_on
+devolve	restrict
+devolve	hurt
+devolve	accomplish
+devolve	disprove
+
+scribe	write
+scribe	yearn
+scribe	force
+scribe	conclude
+scribe	conclude
+
+consist	include
+consist	accumulate
+consist	accomplish
+consist	write
+consist	assume
+
+fight	brawl
+fight	engrave
+fight	mingle
+fight	stop
+fight	travel
+
+diagnose	solve
+diagnose	cut
+diagnose	murder
+diagnose	arise
+diagnose	write
+
+deduce	reason
+deduce	add
+deduce	frown
+deduce	close_one_eye
+deduce	group
+
+structure	arrange
+structure	wake_up
+structure	blend
+structure	blow_air
+structure	refine
+
+kill	murder
+kill	attempt
+kill	restrict
+kill	echo
+kill	squeeze
+
+tabulate	calculate
+tabulate	consult
+tabulate	review
+tabulate	separate
+tabulate	twist
+
+accustom	know
+accustom	separate
+accustom	arise
+accustom	write
+accustom	ship
+
+streamline	make_efficient
+streamline	love_deeply
+streamline	add
+streamline	be_coy
+streamline	stop
+
+term	name
+term	conclude
+term	smooth
+term	orate
+term	arrange
+
+amalgamate	combine
+amalgamate	add
+amalgamate	punch
+amalgamate	distinguish
+amalgamate	produce
+
+term	finish
+term	impose
+term	group
+term	alarm
+term	squeeze
+
+abuse	beat
+abuse	sparkle
+abuse	blend
+abuse	play
+abuse	succeed
+
+devolve	pass_on
+devolve	decipher
+devolve	bump
+devolve	ruin
+devolve	centralize
+
+split	separate
+split	accuse
+split	disallow
+split	sparkle
+split	refine
+
+emasculate	weaken
+emasculate	collect
+emasculate	warn
+emasculate	get_dirty
+emasculate	hit
+
+fan	aerate
+fan	weaken
+fan	hit
+fan	attempt
+fan	press
+
+make	create
+make	transfer
+make	misuse
+make	smile
+make	stir
+
+contaminate	dirty
+contaminate	cut
+contaminate	squash
+contaminate	place
+contaminate	inventory
+
+swat	hit
+swat	smooth
+swat	renounce
+swat	spoil
+swat	smack
+
+toil	struggle
+toil	engrave
+toil	charge
+toil	add
+toil	attack
+
+bill	charge
+bill	squint
+bill	separate
+bill	explode
+bill	spin
+
+catalogue	inventory
+catalogue	imagine
+catalogue	long_for
+catalogue	compare
+catalogue	flash
+
+resonate	have_meaning
+resonate	evaluate
+resonate	report
+resonate	group
+resonate	flash
+
+fight	battle
+fight	fortify
+fight	imply
+fight	stop
+fight	spread
+
+fan	wave
+fan	travel
+fan	transfer
+fan	protrude
+fan	involve
+
+contrast	disparity
+contrast	disengage
+contrast	press
+contrast	battle
+contrast	build
+
+fan	aerate
+fan	copy
+fan	rise
+fan	record
+fan	print
+
+disjoint	take_apart
+disjoint	imagine
+disjoint	swell
+disjoint	bound
+disjoint	reside
+
+journey	travel
+journey	attempt
+journey	sparkle
+journey	electrify
+journey	rise
+
+pardon	forgive
+pardon	decay
+pardon	weave
+pardon	separate
+pardon	stir
+
+immobilize	stop
+immobilize	rustle
+immobilize	roll_up
+immobilize	rub
+immobilize	join
+
+toil	work
+toil	get_to
+toil	conclude
+toil	weaken
+toil	discuss
+
+edit	correct
+edit	want
+edit	play
+edit	imply
+edit	imagine
+
+invade	attack
+invade	form
+invade	involve
+invade	interpret
+invade	refer
+
+iron	flatten
+iron	unite
+iron	put_down
+iron	restrict
+iron	cross
+
+emasculate	castrate
+emasculate	arise
+emasculate	cut
+emasculate	live
+emasculate	attempt
+
+fancy	like
+fancy	whine
+fancy	accomplish
+fancy	include
+fancy	charge
+
+spiral	wind
+spiral	review
+spiral	sharpen
+spiral	restrict
+spiral	reveal
+
+term	designate
+term	cut
+term	work_hard
+term	reach
+term	reject
+
+bulge	swell
+bulge	dismember
+bulge	fall_apart
+bulge	become_familiar
+bulge	suggest
+
+interpret	understand
+interpret	want
+interpret	group
+interpret	give
+interpret	sharpen
+
+iron	press
+iron	attempt
+iron	murder
+iron	live
+iron	raise
+
+contrast	oppose
+contrast	cut
+contrast	arise
+contrast	play_an_instrument
+contrast	fight
+
+bill	charge
+bill	hit
+bill	copy
+bill	disconnect
+bill	define
+
+wink	gesture
+wink	stagnate
+wink	write
+wink	write
+wink	expand
+
+pontificate	lecture
+pontificate	reason
+pontificate	cut
+pontificate	clarify
+pontificate	bring_to_a_stop
+
+streamline	clean_up
+streamline	rise
+streamline	collect
+streamline	warn
+streamline	reroute
+
+catalogue	organize
+catalogue	blow_on
+catalogue	activate
+catalogue	sparkle
+catalogue	shape
+
+slam	slap
+slam	desire
+slam	bump
+slam	pare
+slam	charge
+
+pontificate	conceit
+pontificate	ship
+pontificate	rise
+pontificate	spoil
+pontificate	resound
+
+whisk	whip
+whisk	land
+whisk	imagine
+whisk	attempt
+whisk	bounce
+
+diagnose	identify
+diagnose	consolidate
+diagnose	makeup
+diagnose	travel
+diagnose	spin
+
+immobilize	stop
+immobilize	conclude
+immobilize	sound
+immobilize	work
+immobilize	make_evil
+
+tour	travel
+tour	hit
+tour	create
+tour	think
+tour	talk_together
+
+arrive	reach
+arrive	pick
+arrive	provide_proof
+arrive	worsen
+arrive	heads_up
+
+strum	pluck
+strum	separate
+strum	mix
+strum	smirk
+strum	carve
+
+replicate	duplicate
+replicate	discuss
+replicate	tell
+replicate	void
+replicate	work_hard
+
+appall	shock
+appall	battle
+appall	charge
+appall	add
+appall	jump
+
+power	electrify
+power	certificate
+power	give
+power	excuse
+power	speak_secretly
+
+abuse	hurt
+abuse	scribe
+abuse	write
+abuse	want
+abuse	disallow
+
+achieve	accomplish
+achieve	massage
+achieve	oppose
+achieve	write
+achieve	total
+
+contrast	distinguish
+contrast	misunderstand
+contrast	make_evil
+contrast	spin
+contrast	abrade
+
+inscribe	carve
+inscribe	exploit
+inscribe	provide_proof
+inscribe	travel
+inscribe	resound
+
+iron	smooth_out
+iron	bounce
+iron	pain
+iron	stop
+iron	close
+
+battle	fight
+battle	warn
+battle	live
+battle	disengage
+battle	refer
+
+pontificate	rule
+pontificate	focus
+pontificate	duplicate
+pontificate	overwhelm
+pontificate	heap
+
+term	finish
+term	rise
+term	play
+term	come_together
+term	make_sense_of
+
+intoxicate	excite
+intoxicate	put_down
+intoxicate	insinuate
+intoxicate	occupy
+intoxicate	arise
+
+swat	whack
+swat	compress
+swat	work_hard
+swat	duplicate
+swat	write
+
+boom	bang
+boom	criticize
+boom	squash
+boom	date
+boom	long
+
+disjoint	separate
+disjoint	create
+disjoint	hit
+disjoint	fragment
+disjoint	attempt
+
+edit	alter
+edit	break
+edit	speak_softly
+edit	decipher
+edit	blast
+
+fight	brawl
+fight	smirk
+fight	create
+fight	divide
+fight	travel
+
+toil	pain
+toil	play
+toil	weave
+toil	dye
+toil	sparkle
+
+appall	shock
+appall	shine
+appall	encourage
+appall	arrange
+appall	like
+
+intoxicate	excite
+intoxicate	quarrel
+intoxicate	cut
+intoxicate	decay
+intoxicate	battle
+
+tabulate	total
+tabulate	ship
+tabulate	poison
+tabulate	hit
+tabulate	lecture
+
+catalogue	file
+catalogue	weaken
+catalogue	sharpen
+catalogue	sparkle
+catalogue	see
+
+split	divide
+split	make_easier
+split	explode
+split	translate
+split	transfer
+
+journey	travel
+journey	ball
+journey	encourage
+journey	misunderstand
+journey	familiarize
+
+bulge	expand
+bulge	restrict
+bulge	come_apart
+bulge	clarify
+bulge	blink
+
+arm	weaponize
+arm	want
+arm	encourage
+arm	mark
+arm	roll_up
+
+inscribe	engrave
+inscribe	evaluate
+inscribe	excite
+inscribe	disallow
+inscribe	consolidate
+
+scribe	write
+scribe	transfer
+scribe	refocus
+scribe	imagine
+scribe	weaponize
+
+toil	work_hard
+toil	refine
+toil	murmur
+toil	massage
+toil	explain
+
+picture	visualize
+picture	smooth
+picture	close_one_eye
+picture	shriek
+picture	rub
+
+allude	evade
+allude	smack
+allude	love_deeply
+allude	write
+allude	pollute
+
+appall	frighten
+appall	charge
+appall	assume
+appall	protrude
+appall	lift
+
+aggregate	accumulate
+aggregate	write
+aggregate	take_apart
+aggregate	hit
+aggregate	sharpen
+
+invalidate	abolish
+invalidate	visit
+invalidate	investigate
+invalidate	sign
+invalidate	record
+
+fancy	want
+fancy	punch
+fancy	press
+fancy	acquire
+fancy	take_a_journey
+
+picture	visualize
+picture	separate
+picture	reproduce
+picture	judge
+picture	create
+
+organise	arrange
+organise	organize
+organise	play
+organise	buff
+organise	sidle
+
+export	send
+export	create
+export	shorten
+export	imagine
+export	press
+
+confine	keep
+confine	excuse
+confine	reveal
+confine	energize
+confine	tighten
+
+arrive	enter
+arrive	discuss
+arrive	define
+arrive	produce
+arrive	addle
+
+construe	interpret
+construe	arise
+construe	understand
+construe	fight
+construe	smile
+
+disjoint	separate
+disjoint	insinuate
+disjoint	form
+disjoint	date
+disjoint	close
+
+aggregate	add_up
+aggregate	talk_softly
+aggregate	show
+aggregate	travel
+aggregate	imagine
+
+abdicate	relinquish
+abdicate	arise
+abdicate	date
+abdicate	wave
+abdicate	murmur
+
+catalogue	classify
+catalogue	mistreat
+catalogue	see
+catalogue	transfer
+catalogue	reference
+
+scribe	write
+scribe	sharpen
+scribe	ship
+scribe	undulate
+scribe	pollute
+
+critique	comment
+critique	rewrite
+critique	whine
+critique	distend
+critique	disparity
+
+critique	review
+critique	clash
+critique	pain
+critique	imagine
+critique	restrict
+
+screech	scream
+screech	attack
+screech	polish
+screech	stun
+screech	sparkle
+
+confine	hold
+confine	dig
+confine	struggle
+confine	force
+confine	build
+
+awaken	arise
+awaken	compile
+awaken	weaken
+awaken	upset
+awaken	bat
+
+whisper	talk_softly
+whisper	conclude
+whisper	blend
+whisper	solve
+whisper	put_down
+
+strum	play
+strum	ask
+strum	restrict
+strum	sniff
+strum	blink_one_eye
+
+misconstrue	misunderstand
+misconstrue	cut
+misconstrue	disconnect
+misconstrue	flat
+misconstrue	desire
+
+intoxicate	poison
+intoxicate	twist
+intoxicate	explain
+intoxicate	fade
+intoxicate	insert
+
+arrive	arrive
+arrive	interpret
+arrive	attack
+arrive	dislocate
+arrive	inform
+
+deduce	reason
+deduce	reach
+deduce	discourage_with_fear
+deduce	sparkle
+deduce	forgive
+
+invade	attack
+invade	be_coy
+invade	sharpen
+invade	designate
+invade	excuse
+
+abdicate	forgo
+abdicate	reference
+abdicate	wind
+abdicate	identify
+abdicate	record
+
+evidence	create_proof
+evidence	sweep
+evidence	flap
+evidence	imagine
+evidence	correspond
+
+tabulate	add
+tabulate	jump
+tabulate	pain
+tabulate	talk_together
+tabulate	sign
+
+emasculate	weaken
+emasculate	discuss
+emasculate	jump
+emasculate	be_made_up_of
+emasculate	sharpen
+
+achieve	obtain
+achieve	ship
+achieve	disprove
+achieve	misuse
+achieve	tattoo
+
+alert	warn
+alert	conquer
+alert	sort
+alert	sparkle
+alert	abrade
+
+devolve	fragment
+devolve	calculate
+devolve	group
+devolve	reverberate
+devolve	elevate
+
+consist	be_formed
+consist	shine
+consist	dirty
+consist	keep
+consist	create
+
+try	attempt
+try	carry
+try	echo
+try	inform
+try	imagine
+
+polish	refine
+polish	infect
+polish	store
+polish	warn
+polish	hurt
+
+iron	press
+iron	reroute
+iron	massage
+iron	conceit
+iron	hit
+
+park	place
+park	encourage
+park	massage
+park	live
+park	lift
+
+whisper	speak_softly
+whisper	bang
+whisper	focus
+whisper	show
+whisper	succeed
+
+bop	hit
+bop	battle
+bop	adapt
+bop	see
+bop	name
+
+contaminate	infect
+contaminate	stir
+contaminate	sit_still
+contaminate	flatten
+contaminate	attempt
+
+streamline	simplify
+streamline	oppose
+streamline	inspect
+streamline	arrange
+streamline	makeup
+
+split	break
+split	blink_one_eye
+split	create
+split	stir_briskly
+split	bump
+
+term	name
+term	discuss
+term	change_course
+term	succeed
+term	force
+
+allude	imply
+allude	obstruct
+allude	accomplish
+allude	regress
+allude	live
+
+battle	fight
+battle	wake_up
+battle	print
+battle	imagine
+battle	divert
+
+contaminate	ruin
+contaminate	place
+contaminate	enclose
+contaminate	obtain
+contaminate	restrict
+
+deduce	determine
+deduce	squeeze
+deduce	discuss
+deduce	name
+deduce	spin
+
+zigzag	weave
+zigzag	accuse
+zigzag	refocus
+zigzag	weaken
+zigzag	date
+
+document	record
+document	slap
+document	tune_out
+document	visit
+document	enclose
+
+disclose	reveal
+disclose	deflect
+disclose	tattoo
+disclose	get_dirty
+disclose	flash
+
+twinkle	sparkle
+twinkle	compare
+twinkle	offend
+twinkle	discover
+twinkle	include
+
+journey	travel
+journey	accomplish
+journey	differentiate
+journey	attempt
+journey	abolish
+
+inhabit	live
+inhabit	write
+inhabit	smack
+inhabit	acquire
+inhabit	understand_wrongly
+
+accustom	familiarize
+accustom	land
+accustom	weaken
+accustom	disparity
+accustom	abrade
+
+ink	write
+ink	assemble
+ink	produce
+ink	talk_together
+ink	castrate
+
+split	separate
+split	explain
+split	cut
+split	charge
+split	alter
+
+spiral	wind
+spiral	relinquish
+spiral	stun
+spiral	disparity
+spiral	weaken
+
+document	record
+document	charge
+document	come_apart
+document	be
+document	combine
+
+zigzag	evade
+zigzag	travel
+zigzag	misunderstand
+zigzag	take_apart
+zigzag	reinstruct
+
+fan	air
+fan	mix
+fan	hold
+fan	bang
+fan	upset
+
+park	stop
+park	accomplish
+park	pick
+park	resend
+park	wake_up
+
+sum	total
+sum	plan
+sum	flat
+sum	create_columns
+sum	write
+
+devolve	transfer
+devolve	record
+devolve	cut
+devolve	fuel
+devolve	prime
+
+pardon	forgive
+pardon	work_hard
+pardon	hit
+pardon	obstruct
+pardon	distinguish
+
+battle	fight
+battle	reproduce
+battle	wake
+battle	phrase
+battle	illustrate
+
+arm	fortify
+arm	deflect
+arm	keep
+arm	like
+arm	wind
+
+slam	hit
+slam	give
+slam	reveal
+slam	hurt
+slam	grin
+
+trim	cut
+trim	travel
+trim	despoil
+trim	refine
+trim	charge
+
+implicate	imply
+implicate	swell
+implicate	heads_up
+implicate	build
+implicate	group
+
+document	write_down
+document	comprise
+document	infer
+document	support
+document	flash
+
+confine	limit
+confine	succeed
+confine	interpret
+confine	organize
+confine	ship
+
+zone	tune_out
+zone	imply
+zone	fight
+zone	massage
+zone	weave
+
+appall	offend
+appall	admire
+appall	charge
+appall	add
+appall	identify
+
+picture	imagine
+picture	infer
+picture	buff
+picture	bang
+picture	disprove
+
+critique	comment
+critique	show_up
+critique	lecture
+critique	assemble
+critique	go_on_vacation
+
+simper	smirk
+simper	oppose
+simper	change
+simper	disallow
+simper	sharpen
+
+whisk	stir_briskly
+whisk	swell
+whisk	edge_out
+whisk	deteriorate
+whisk	overwhelm
+
+confer	discuss
+confer	collect
+confer	mix
+confer	weave
+confer	elevate
+
+bill	charge
+bill	terminate
+bill	reach
+bill	reference
+bill	categorize
+
+contaminate	pollute
+contaminate	wake_up
+contaminate	sort
+contaminate	blow
+contaminate	sign
+
+emasculate	weaken
+emasculate	add
+emasculate	separate
+emasculate	distinguish
+emasculate	fight
+
+alert	warn
+alert	air
+alert	hit
+alert	talk_together
+alert	cut
+
+make	create
+make	plan
+make	cross
+make	twist
+make	live
+
+resonate	reproduce
+resonate	let_escape
+resonate	decay
+resonate	carry
+resonate	like
+
+appall	upset
+appall	carry
+appall	want
+appall	send
+appall	squash
+
+simper	smirk
+simper	compress
+simper	play
+simper	rustle
+simper	record
+
+whisk	stir
+whisk	tighten
+whisk	sparkle
+whisk	copy
+whisk	evaluate
+
+immobilize	sit_still
+immobilize	squeeze
+immobilize	separate
+immobilize	sparkle
+immobilize	swell
+
+lop	glob
+lop	finish
+lop	mistreat
+lop	dismember
+lop	shock
+
+disclose	let_escape
+disclose	stir
+disclose	scream
+disclose	provide_proof
+disclose	misinterpret
+
+iron	flatten
+iron	deflect
+iron	accumulate
+iron	cut
+iron	hop
+
+catalogue	classify
+catalogue	oppose
+catalogue	conclude
+catalogue	bang
+catalogue	blink_one_eye
+
+ink	write
+ink	consult
+ink	carve
+ink	close
+ink	prove
+
+corrupt	make_evil
+corrupt	differentiate
+corrupt	review
+corrupt	bump
+corrupt	create_columns
+
+fan	circulate_air
+fan	exonerate
+fan	desire
+fan	scream
+fan	forgo
+
+invalidate	reject
+invalidate	cordon
+invalidate	color
+invalidate	build
+invalidate	evaluate
+
+devolve	come_apart
+devolve	hit
+devolve	date
+devolve	enclose
+devolve	adverse
+
+deduce	conclude
+deduce	be
+deduce	long
+deduce	cut
+deduce	reject
+
+immobilize	stop
+immobilize	misuse
+immobilize	send
+immobilize	pass_off
+immobilize	spoil
+
+arrive	get_to
+arrive	total
+arrive	conclude
+arrive	fight
+arrive	invoice
+
+corrupt	dirty
+corrupt	smirk
+corrupt	come_apart
+corrupt	identify
+corrupt	record
+
+ink	write
+ink	get_to
+ink	excuse
+ink	spin
+ink	strike_a_chord
+
+whisper	speak_secretly
+whisper	separate
+whisper	group
+whisper	sharpen
+whisper	pass_off
+
+trim	shorten
+trim	sparkle
+trim	believe
+trim	group
+trim	roll
+
+picture	visualize
+picture	add
+picture	forgive
+picture	misunderstand
+picture	familiarize
+
+spring	bound
+spring	roll_up
+spring	buff
+spring	visit
+spring	name
+
+make	prepare
+make	play
+make	cede
+make	warn
+make	interpret
+
+contrast	compare
+contrast	raise
+contrast	conclude
+contrast	limit
+contrast	echo
+
+ink	write
+ink	blow
+ink	hold_still
+ink	disconnect
+ink	frame
+
+try	attempt
+try	sweep
+try	excuse
+try	stir
+try	leap
+
+arm	secure
+arm	explain
+arm	blink_one_eye
+arm	copy
+arm	weave
+
+boom	make_noise
+boom	be_strong
+boom	divide
+boom	intrude
+boom	snoop
+
+split	separate
+split	squeeze
+split	spoil
+split	familiarize
+split	live
+
+immobilize	hold_still
+immobilize	record
+immobilize	change
+immobilize	grin
+immobilize	attempt
+
+slam	slap
+slam	deceive
+slam	sparkle
+slam	include
+slam	exonerate
+
+invalidate	discredit
+invalidate	focus
+invalidate	evangelize
+invalidate	force_upon
+invalidate	fade
+
+court	date
+court	charge
+court	long
+court	travel
+court	spoil
+
+document	record
+document	exonerate
+document	uproot
+document	frighten
+document	imagine
+
+boom	bang
+boom	raise
+boom	hurt
+boom	encourage
+boom	tighten
+
+contaminate	despoil
+contaminate	blink_one_eye
+contaminate	write
+contaminate	pain
+contaminate	report
+
+corrupt	pollute
+corrupt	regress
+corrupt	travel
+corrupt	attempt
+corrupt	decipher
+
+try	attempt
+try	massage
+try	long
+try	dishonour
+try	quarrel
+
+abuse	beat
+abuse	deteriorate
+abuse	create
+abuse	take_a_journey
+abuse	calculate
+
+diagnose	ascertain
+diagnose	protrude
+diagnose	warn
+diagnose	blow_air
+diagnose	ask
+
+lop	chop
+lop	weaken
+lop	separate
+lop	sparkle
+lop	think
+
+rub	abrade
+rub	reroute
+rub	simplify
+rub	energize
+rub	abolish
+
+edit	correct
+edit	orient
+edit	attack
+edit	jump
+edit	undermine
+
+rub	caress
+rub	cut
+rub	inventory
+rub	write
+rub	mix
+
+amalgamate	consolidate
+amalgamate	misunderstand
+amalgamate	beat
+amalgamate	cut
+amalgamate	encroach
+
+ink	dye
+ink	travel
+ink	modify
+ink	roll
+ink	attempt
+
+twinkle	sparkle
+twinkle	tattoo
+twinkle	protrude
+twinkle	leap
+twinkle	hit
+
+spiral	twist
+spiral	separate
+spiral	tighten
+spiral	write
+spiral	imply
+
+structure	create
+structure	yearn
+structure	want
+structure	spoil
+structure	long_for
+
+devolve	transfer
+devolve	switch
+devolve	sign
+devolve	pass_off
+devolve	get
+
+power	energize
+power	stop
+power	raise
+power	wage_war
+power	terminate
+
+replicate	reproduce
+replicate	ball
+replicate	pluck
+replicate	whet
+replicate	write
+
+immobilize	stagnate
+immobilize	simplify
+immobilize	attempt
+immobilize	restrict
+immobilize	attack
+
+lop	cut
+lop	conceit
+lop	distend
+lop	get_dirty
+lop	stir
+
+twinkle	sparkle
+twinkle	like
+twinkle	transfer
+twinkle	bind
+twinkle	reverberate
+
+pardon	excuse
+pardon	cut
+pardon	disengage
+pardon	add
+pardon	terminate
+
+foist	pass_off
+foist	identify
+foist	disengage
+foist	flatten
+foist	break
+
+devolve	deteriorate
+devolve	visualize
+devolve	prepare
+devolve	decipher
+devolve	wake_up
+
+abdicate	disengage
+abdicate	comment
+abdicate	beat
+abdicate	plan
+abdicate	jump
+
+interpret	clarify
+interpret	correct
+interpret	copy
+interpret	attempt
+interpret	travel
+
+structure	plan
+structure	ask
+structure	conquer
+structure	amass
+structure	renounce
+
+make	create
+make	evangelize
+make	clean
+make	hold
+make	imagine
+
+lop	chop
+lop	comment
+lop	duplicate
+lop	talk_together
+lop	smirk
+
+devolve	deteriorate
+devolve	focus
+devolve	smile
+devolve	succeed
+devolve	deceive
+
+term	time
+term	jump
+term	translate
+term	grow
+term	make_noise
+
+catalogue	classify
+catalogue	warn
+catalogue	modify
+catalogue	disparity
+catalogue	refocus
+
+contaminate	dirty
+contaminate	renounce
+contaminate	murmur
+contaminate	bind
+contaminate	include
+
+uplift	inspire
+uplift	pollute
+uplift	oppose
+uplift	inform
+uplift	shock
+
+simper	smile
+simper	battle
+simper	ship
+simper	come_apart
+simper	accomplish
+
+arm	fortify
+arm	separate
+arm	sparkle
+arm	swell
+arm	lecture
+
+consist	enclose
+consist	mistake
+consist	be_coy
+consist	acquire
+consist	scream
+
+redirect	resend
+redirect	assess
+redirect	travel
+redirect	duplicate
+redirect	exonerate
+
+nose	dig
+nose	deflect
+nose	sparkle
+nose	misunderstand
+nose	occupy
+
+battle	wage_war
+battle	settle
+battle	reach
+battle	arrange
+battle	misuse
+
+alert	heads_up
+alert	murmur
+alert	weaken
+alert	charge
+alert	write
+
+export	ship
+export	refine
+export	weave
+export	close
+export	combine
+
+picture	visualize
+picture	press
+picture	stop
+picture	energize
+picture	shape
+
+inhabit	dwell
+inhabit	heap
+inhabit	charge
+inhabit	preach
+inhabit	weaken
+
+achieve	succeed
+achieve	spin
+achieve	mix
+achieve	raise
+achieve	scribe
+
+misconstrue	understand_wrongly
+misconstrue	jump
+misconstrue	total
+misconstrue	twist
+misconstrue	live
+
+power	energize
+power	prove
+power	hit
+power	blast
+power	write
+
+arrive	come
+arrive	undulate
+arrive	distend
+arrive	elate
+arrive	close_one_eye
+
+tour	visit
+tour	imply
+tour	absolve
+tour	void
+tour	reside
+
+deduce	discover
+deduce	stir
+deduce	correct
+deduce	review
+deduce	void
+
+contaminate	spoil
+contaminate	play
+contaminate	squash
+contaminate	paste
+contaminate	trim
+
+construe	figure_out
+construe	evangelize
+construe	record
+construe	grow
+construe	conclude
+
+swat	paste
+swat	dishonour
+swat	protrude
+swat	massage
+swat	sidle
+
+zigzag	avoid
+zigzag	inform
+zigzag	separate
+zigzag	produce
+zigzag	write
+
+iron	flatten
+iron	flirt
+iron	bang
+iron	slay
+iron	encourage
+
+tabulate	compile
+tabulate	circulate_air
+tabulate	infect
+tabulate	abrade
+tabulate	encourage
+
+inhabit	occupy
+inhabit	edge_out
+inhabit	write
+inhabit	compare
+inhabit	send_away
+
+structure	form
+structure	gather
+structure	separate
+structure	blow_on
+structure	sparkle
+
+confer	ask
+confer	separate
+confer	want
+confer	imply
+confer	separate
+
+term	time
+term	smooth
+term	bang
+term	talk_together
+term	hit
+
+uplift	raise
+uplift	brawl
+uplift	whip
+uplift	group
+uplift	identify
+
+slam	put_down
+slam	resend
+slam	uproot
+slam	create
+slam	sharpen
+
+achieve	succeed
+achieve	lunge
+achieve	want
+achieve	imply
+achieve	uproot
+
+bop	dance
+bop	stir
+bop	enclose
+bop	prove
+bop	create
+
+critique	evaluate
+critique	accomplish
+critique	visit
+critique	reveal
+critique	change
+
+zone	separate
+zone	misinterpret
+zone	chop
+zone	battle
+zone	sort
+
+allude	suggest
+allude	divert
+allude	accomplish
+allude	write
+allude	discredit
+
+misconstrue	understand_wrongly
+misconstrue	enter
+misconstrue	echo
+misconstrue	ship
+misconstrue	produce
+
+uplift	raise
+uplift	breathe
+uplift	reroute
+uplift	attempt
+uplift	imprint
+
+aggregate	assemble
+aggregate	engrave
+aggregate	weave
+aggregate	correct
+aggregate	imagine
+
+edit	alter
+edit	hit
+edit	protect
+edit	stun
+edit	woo
+
+replicate	reproduce
+replicate	accuse
+replicate	makeup
+replicate	poison
+replicate	enter
+
+edit	modify
+edit	criticize
+edit	sparkle
+edit	record
+edit	go_on_vacation
+
+evidence	see
+evidence	classify
+evidence	comprise
+evidence	show_differences
+evidence	shine
+
+contrast	adverse
+contrast	dedicate
+contrast	brawl
+contrast	sparkle
+contrast	cut
+
+lump	heap
+lump	define
+lump	add
+lump	think
+lump	cascade
+
+abdicate	disengage
+abdicate	breathe
+abdicate	correspond
+abdicate	compile
+abdicate	calculate
+
+zone	disconnect
+zone	mistake
+zone	obstruct
+zone	cut
+zone	lift
+
+implicate	involve
+implicate	hit
+implicate	write
+implicate	transfer
+implicate	change
+
+park	place
+park	disturb
+park	equal
+park	raise
+park	stagnate
+
+replicate	copy
+replicate	tighten
+replicate	attempt
+replicate	record
+replicate	move
+
+battle	fight
+battle	frown
+battle	limit
+battle	write
+battle	succeed
+
+resonate	reverberate
+resonate	assume
+resonate	combat
+resonate	mingle
+resonate	ascertain
+
+slam	criticize
+slam	divide
+slam	excuse
+slam	sidle
+slam	echo
+
+inscribe	imprint
+inscribe	offend
+inscribe	review
+inscribe	write
+inscribe	imply
+
+interpret	clarify
+interpret	hurt
+interpret	twist
+interpret	press
+interpret	change_course
+
+pine	yearn
+pine	simplify
+pine	absolve
+pine	battle
+pine	sign
+
+court	date
+court	alarm
+court	travel
+court	sharpen
+court	divert
+
+arrive	reach
+arrive	flatten
+arrive	get_used_to
+arrive	excuse
+arrive	plan
+
+pardon	excuse
+pardon	ship
+pardon	warn
+pardon	damage
+pardon	ascertain
+
+polish	rub
+polish	heads_up
+polish	hit
+polish	blink
+polish	jump
+
+confine	hold
+confine	invoice
+confine	impose
+confine	corrode
+confine	conclude
+
+whisper	talk_softly
+whisper	determine
+whisper	worsen
+whisper	ship
+whisper	spoil
+
+picture	imagine
+picture	compile
+picture	travel
+picture	travel
+picture	rise
+
+immobilize	sit_still
+immobilize	support
+immobilize	hurt
+immobilize	shine
+immobilize	be
+
+allude	imply
+allude	excuse
+allude	believe
+allude	write
+allude	lecture
+
+diagnose	explain
+diagnose	switch
+diagnose	explain
+diagnose	disallow
+diagnose	shriek
+
+slam	hit
+slam	work
+slam	massage
+slam	want
+slam	disprove
+
+emasculate	criticize
+emasculate	notify
+emasculate	explode
+emasculate	identify
+emasculate	close_one_eye
+
+consist	comprise
+consist	upset
+consist	share
+consist	inform
+consist	desire
+
+allude	refer
+allude	accuse
+allude	gesture
+allude	evangelize
+allude	live
+
+interpret	make_sense_of
+interpret	like
+interpret	damage
+interpret	conquer
+interpret	dwell
+
+invalidate	undermine
+invalidate	tighten
+invalidate	open
+invalidate	chop
+invalidate	speak_softly
+
+constrict	squeeze
+constrict	combat
+constrict	leave
+constrict	bang
+constrict	reach
+
+zone	categorize
+zone	shine
+zone	work
+zone	whet
+zone	shriek
+
+strum	pluck
+strum	flash
+strum	list
+strum	poke
+strum	grin
+
+structure	frame
+structure	expand
+structure	know
+structure	disconnect
+structure	stir
+
+consist	makeup
+consist	study
+consist	copy
+consist	travel
+consist	divide
+
+consist	include
+consist	stop
+consist	swell
+consist	record
+consist	interpret
+
+strum	play
+strum	focus
+strum	record
+strum	excuse
+strum	fuel
+
+resonate	resound
+resonate	identify
+resonate	tighten
+resonate	create
+resonate	dye
+
+devolve	pass
+devolve	correct
+devolve	plan
+devolve	make_feminine
+devolve	engrave
+
+invade	attack
+invade	desire
+invade	accomplish
+invade	designate
+invade	protrude
+
+slam	bang
+slam	accomplish
+slam	misuse
+slam	sparkle
+slam	charge
+
+awaken	wake_up
+awaken	evade
+awaken	pass_on
+awaken	caress
+awaken	understand
+
+polish	smooth
+polish	energize
+polish	expound
+polish	discuss
+polish	elate
+
+strum	pick
+strum	let_escape
+strum	rule
+strum	distinguish
+strum	whip
+
+arm	prime
+arm	visualize
+arm	smooth_out
+arm	shine
+arm	oppose
+
+appall	dishonour
+appall	attack
+appall	adapt
+appall	smirk
+appall	go_on_vacation
+
+kill	end
+kill	expand
+kill	poison
+kill	curl
+kill	jump
+
+streamline	centralize
+streamline	plan
+streamline	put_down
+streamline	want
+streamline	shine
+
+bop	dance
+bop	reveal
+bop	alter
+bop	activate
+bop	slay
+
+furl	curl
+furl	shriek
+furl	succeed
+furl	hit
+furl	regress
+
+rub	massage
+rub	collect
+rub	squeeze
+rub	fragment
+rub	reason
+
+deteriorate	corrode
+deteriorate	copy
+deteriorate	inebriate
+deteriorate	form
+deteriorate	write
+
+split	divide
+split	wake_up
+split	yearn
+split	undermine
+split	imprint
+
+whisper	murmur
+whisper	reason
+whisper	designate
+whisper	tally
+whisper	assemble
+
+wink	squint
+wink	add
+wink	ship
+wink	squash
+wink	wind
+
+term	phrase
+term	group
+term	create_columns
+term	enclose
+term	sharpen
+
+kill	end
+kill	talk_softly
+kill	blink
+kill	fight
+kill	cut
+
+arrive	reach
+arrive	work
+arrive	cut
+arrive	send
+arrive	collect
+
+twinkle	sparkle
+twinkle	evangelize
+twinkle	hurt
+twinkle	divide
+twinkle	cut
+
+polish	shine
+polish	whack
+polish	arrange
+polish	hit
+polish	arise
+
+contrast	compare
+contrast	break_in
+contrast	familiarize
+contrast	bang
+contrast	chop
+
+picture	imagine
+picture	forgive
+picture	correct
+picture	whip
+picture	murmur
+
+whisper	speak_softly
+whisper	overtake
+whisper	warn
+whisper	take_apart
+whisper	overwhelm
+
+inscribe	engrave
+inscribe	stun
+inscribe	form
+inscribe	write
+inscribe	suggest
+
+invade	overtake
+invade	misuse
+invade	total
+invade	inspect
+invade	name
+
+diagnose	discern
+diagnose	decay
+diagnose	press
+diagnose	add
+diagnose	pick
+
+arrive	reach
+arrive	misunderstand
+arrive	press
+arrive	include
+arrive	fight
+
+constrict	tighten
+constrict	imagine
+constrict	tell
+constrict	make_sense_of
+constrict	determine
+
+iron	press
+iron	join
+iron	stop
+iron	encourage
+iron	prove
+
+journey	travel
+journey	spin_in_circles
+journey	arrange
+journey	worsen
+journey	travel
+
+battle	fight
+battle	solve
+battle	phrase
+battle	inventory
+battle	murmur
+
+appall	offend
+appall	clarify
+appall	sidle
+appall	change
+appall	protrude
+
+devolve	pass
+devolve	translate
+devolve	attempt
+devolve	want
+devolve	work_hard
+
+arm	protect
+arm	love_deeply
+arm	flatten
+arm	hit
+arm	list
+
+deteriorate	decay
+deteriorate	reason
+deteriorate	clash
+deteriorate	caress
+deteriorate	charge
+
+constrict	restrain
+constrict	hit
+constrict	undermine
+constrict	travel
+constrict	explain
+
+court	woo
+court	want
+court	disprove
+court	break_up
+court	review
+
+zone	mark_off
+zone	reach
+zone	spread
+zone	ask
+zone	encourage
+
+aggregate	gather
+aggregate	trade
+aggregate	engrave
+aggregate	fight
+aggregate	send_away
+
+whisk	whip
+whisk	travel
+whisk	gather
+whisk	plan
+whisk	pollute
+
+emasculate	weaken
+emasculate	arise
+emasculate	conclude
+emasculate	paste
+emasculate	struggle
+
+bulge	protrude
+bulge	organize
+bulge	ship
+bulge	ship
+bulge	cut
+
+constrict	restrain
+constrict	hold_a_gun
+constrict	lift
+constrict	visit
+constrict	involve
+
+catalogue	organize
+catalogue	jump
+catalogue	explain
+catalogue	tune_out
+catalogue	trade
+
+evidence	proof
+evidence	work
+evidence	work
+evidence	rush
+evidence	create_columns
+
+lump	group
+lump	makeup
+lump	cut
+lump	date
+lump	travel
+
+fancy	desire
+fancy	warn
+fancy	be_formed
+fancy	identify
+fancy	disconnect
+
+split	separate
+split	evade
+split	murmur
+split	rustle
+split	expand
+
+misconstrue	misinterpret
+misconstrue	interpret
+misconstrue	reproduce
+misconstrue	transfer
+misconstrue	add
+
+deteriorate	fade
+deteriorate	sort
+deteriorate	press
+deteriorate	proof
+deteriorate	come_together
+
+abdicate	relinquish
+abdicate	finish
+abdicate	visit
+abdicate	stir_briskly
+abdicate	mistreat
+
+tour	inspect
+tour	join
+tour	end
+tour	bump
+tour	occupy
+
+disjoint	separate
+disjoint	bound
+disjoint	go_on_vacation
+disjoint	hit
+disjoint	shape
+
+swat	hit
+swat	pick
+swat	imprint
+swat	taint
+swat	want
+
+streamline	organize
+streamline	shock
+streamline	cut
+streamline	encourage
+streamline	be
+
+court	flirt
+court	rustle
+court	beat
+court	spoil
+court	visit
+
+pontificate	address
+pontificate	blow_air
+pontificate	love_deeply
+pontificate	attempt
+pontificate	shock
+
+fight	battle
+fight	wind
+fight	castrate
+fight	record
+fight	wind
+
+trim	cut
+trim	distinguish
+trim	add_up
+trim	stir
+trim	total
+
+pine	want
+pine	reach
+pine	create
+pine	arrive
+pine	travel
+
+twinkle	sparkle
+twinkle	spin
+twinkle	send
+twinkle	accumulate
+twinkle	sign
+
+lump	accumulate
+lump	rise
+lump	account
+lump	offshore
+lump	get_dirty
+
+nose	edge_out
+nose	weaken
+nose	let_escape
+nose	record
+nose	void
+
+pontificate	address
+pontificate	stimulate
+pontificate	reside
+pontificate	flatten
+pontificate	designate
+
+inscribe	carve
+inscribe	function
+inscribe	spin
+inscribe	wake_up
+inscribe	name
+
+emasculate	weaken
+emasculate	squash
+emasculate	reveal
+emasculate	send
+emasculate	carry
+
+confine	enclose
+confine	adapt
+confine	divide
+confine	rule
+confine	include
+
+accustom	familiarize
+accustom	frown
+accustom	clean
+accustom	squint
+accustom	clean_up
+
+pontificate	rule
+pontificate	flirt
+pontificate	abrade
+pontificate	visualize
+pontificate	sort
+
+alert	heads_up
+alert	make_easier
+alert	divide
+alert	work
+alert	hurt
+
+split	divide
+split	roll_up
+split	mistreat
+split	squint
+split	terminate
+
+bop	bounce
+bop	restrict
+bop	squeeze
+bop	get
+bop	smooth
+
+toil	work
+toil	add
+toil	squint
+toil	cut
+toil	wake_up
+
+resonate	reproduce
+resonate	want
+resonate	name
+resonate	bound
+resonate	organize
+
+power	energize
+power	whine
+power	discuss
+power	shriek
+power	infer
+
+achieve	succeed
+achieve	inspire
+achieve	add
+achieve	charge
+achieve	pain
+
+invade	attack
+invade	deceive
+invade	shock
+invade	carry
+invade	charge
+
+alert	notify
+alert	assess
+alert	like
+alert	want
+alert	accumulate
+
+arm	activate
+arm	combine
+arm	rub
+arm	snoop
+arm	desire
+
+constrict	compress
+constrict	blend
+constrict	dislocate
+constrict	sparkle
+constrict	talk_softly
+
+furl	roll_up
+furl	prime
+furl	imply
+furl	hold_a_gun
+furl	be_coy
+
+foist	lift
+foist	assemble
+foist	inventory
+foist	end
+foist	see
+
+contaminate	poison
+contaminate	add_up
+contaminate	stun
+contaminate	excite
+contaminate	create
+
+wink	blink_one_eye
+wink	long
+wink	make_feminine
+wink	carve
+wink	write
+
+uplift	raise
+uplift	criticize
+uplift	want
+uplift	cut
+uplift	infer
+
+diagnose	determine
+diagnose	misuse
+diagnose	throw
+diagnose	move
+diagnose	engrave
+
+lop	cut
+lop	swell
+lop	simplify
+lop	stroke
+lop	discourage_with_fear
+
+wink	squint
+wink	admire
+wink	travel
+wink	determine
+wink	create
+
+strum	play
+strum	preach
+strum	scribe
+strum	succeed
+strum	attempt
+
+park	leave
+park	energize
+park	correct
+park	break
+park	be_coy
+
+toil	struggle
+toil	spoil
+toil	regress
+toil	include
+toil	tally
+
+iron	press
+iron	wind
+iron	scribe
+iron	swell
+iron	ship
+
+term	phrase
+term	restrict
+term	renounce
+term	poison
+term	edge_out
+
+tabulate	calculate
+tabulate	lunge
+tabulate	want
+tabulate	hit
+tabulate	attempt
+
+journey	travel
+journey	sign
+journey	hit
+journey	stagnate
+journey	adapt
+
+lump	group
+lump	reset
+lump	separate
+lump	explain
+lump	name
+
+misconstrue	misunderstand
+misconstrue	bang
+misconstrue	cut
+misconstrue	evade
+misconstrue	correct
+
+devolve	pass_on
+devolve	weave
+devolve	imagine
+devolve	reason
+devolve	rub
+
+redirect	reinstruct
+redirect	spread
+redirect	mistake
+redirect	quarrel
+redirect	forgo
+
+lop	cut
+lop	carry
+lop	rule
+lop	scream
+lop	tattoo
+
+furl	roll_up
+furl	deceive
+furl	create
+furl	reveal
+furl	accomplish
+
+uplift	encourage
+uplift	succeed
+uplift	sort
+uplift	cut
+uplift	be
+
+interpret	decipher
+interpret	spoil
+interpret	imply
+interpret	yearn
+interpret	raise
+
+slam	bang
+slam	duplicate
+slam	compare
+slam	move
+slam	restrain
+
+misconstrue	misunderstand
+misconstrue	abolish
+misconstrue	discredit
+misconstrue	fight
+misconstrue	smile
+
+pardon	forgive
+pardon	accomplish
+pardon	press
+pardon	record
+pardon	warn
+
+make	create
+make	consult
+make	expound
+make	engrave
+make	frighten
+
+diagnose	explain
+diagnose	blast
+diagnose	pass_off
+diagnose	discuss
+diagnose	distinguish
+
+streamline	smooth
+streamline	sharpen
+streamline	imagine
+streamline	evade
+streamline	criticize
+
+interpret	understand
+interpret	chop
+interpret	dirty
+interpret	familiarize
+interpret	pollute
+
+hone	sharpen
+hone	inebriate
+hone	shriek
+hone	address
+hone	bring_to_a_stop
+
+fight	battle
+fight	imply
+fight	blow_air
+fight	stop
+fight	distinguish
+
+invalidate	abolish
+invalidate	prove
+invalidate	roll_up
+invalidate	work
+invalidate	work_hard
+
+fancy	like
+fancy	bump
+fancy	wind
+fancy	battle
+fancy	shriek
+
+make	create
+make	charge
+make	invoice
+make	stagnate
+make	change
+
+iron	press
+iron	talk_softly
+iron	disparity
+iron	arrive
+iron	review
+
+implicate	imply
+implicate	hit
+implicate	imply
+implicate	invoice
+implicate	shriek
+
+fight	combat
+fight	translate
+fight	arouse
+fight	travel
+fight	stir
+
+accustom	know
+accustom	yearn
+accustom	smirk
+accustom	simplify
+accustom	explode
+
+hone	sharpen
+hone	regress
+hone	organize
+hone	show_up
+hone	cut
+
+uplift	inspire
+uplift	fall_apart
+uplift	evangelize
+uplift	misuse
+uplift	organize
+
+screech	shriek
+screech	pollute
+screech	weave
+screech	add
+screech	evangelize
+
+accustom	familiarize
+accustom	blink
+accustom	decay
+accustom	name
+accustom	forgive
+
+slam	bang
+slam	excite
+slam	wind
+slam	twist
+slam	get_used_to
+
+rub	buff
+rub	press
+rub	record
+rub	mistreat
+rub	sidle
+
+zigzag	undulate
+zigzag	organize
+zigzag	charge
+zigzag	forgive
+zigzag	reveal
+
+invade	enter
+invade	misuse
+invade	wake_up
+invade	fight
+invade	group
+
+zigzag	move
+zigzag	shape
+zigzag	dirty
+zigzag	forgo
+zigzag	worsen
+
+organise	arrange
+organise	forgo
+organise	blow
+organise	uproot
+organise	press
+
+construe	infer
+construe	make_efficient
+construe	cut
+construe	accomplish
+construe	murmur
+
+power	electrify
+power	stroke
+power	visualize
+power	sharpen
+power	come_together
+
+appall	shock
+appall	attempt
+appall	shriek
+appall	study
+appall	grapple
+
+redirect	refocus
+redirect	hurt
+redirect	misinterpret
+redirect	blink_one_eye
+redirect	pollute
+
+awaken	wake_up
+awaken	massage
+awaken	grow
+awaken	stroke
+awaken	inebriate
+
+interpret	understand
+interpret	hurt
+interpret	warn
+interpret	reference
+interpret	charge
+
+scribe	write
+scribe	hit
+scribe	visit
+scribe	live
+scribe	refocus
+
+bill	invoice
+bill	energize
+bill	energize
+bill	show_up
+bill	explode
+
+fight	attack
+fight	close_one_eye
+fight	misinterpret
+fight	explain
+fight	exhilarate
+
+awaken	arouse
+awaken	warn
+awaken	settle
+awaken	fall_apart
+awaken	inspire
+
+foist	force
+foist	sniff
+foist	touch
+foist	restrict
+foist	yearn
+
+make	create
+make	fade
+make	ball
+make	grapple
+make	clarify
+
+inscribe	write
+inscribe	travel
+inscribe	infer
+inscribe	activate
+inscribe	write
+
+whisper	murmur
+whisper	relinquish
+whisper	collect
+whisper	frown
+whisper	include
+
+document	certificate
+document	spin_in_circles
+document	blend
+document	twist
+document	sniff
+
+arm	carry
+arm	build
+arm	attempt
+arm	play
+arm	dig
+
+inhabit	live
+inhabit	obtain
+inhabit	dig
+inhabit	edge_out
+inhabit	ask
+
+trim	cut
+trim	clarify
+trim	massage
+trim	frame
+trim	smirk
+
+deduce	conclude
+deduce	buff
+deduce	avoid
+deduce	dye
+deduce	desire
+
+lump	bump
+lump	murder
+lump	desire
+lump	enter
+lump	whine
+
+furl	wrap
+furl	calculate
+furl	make_sense_of
+furl	distend
+furl	caress
+
+disjoint	separate
+disjoint	pollute
+disjoint	time
+disjoint	make_easier
+disjoint	like
+
+lop	chop
+lop	reverberate
+lop	sidle
+lop	renounce
+lop	copy
+
+pontificate	conceit
+pontificate	oppose
+pontificate	make_smooth
+pontificate	murder
+pontificate	conclude
+
+toil	work
+toil	brawl
+toil	spoil
+toil	clean
+toil	ascertain
+
+whisper	murmur
+whisper	gesture
+whisper	cut
+whisper	flatten
+whisper	write_down
+
+court	woo
+court	place
+court	exhilarate
+court	whine
+court	slap
+
+park	place
+park	smirk
+park	energize
+park	phrase
+park	smile
+
+wink	blink_one_eye
+wink	cut
+wink	explain
+wink	energize
+wink	hit
+
+twinkle	sparkle
+twinkle	notify
+twinkle	jump
+twinkle	spin_in_circles
+twinkle	decay
+
+organise	arrange
+organise	tattoo
+organise	reach
+organise	accumulate
+organise	sparkle
+
+kill	end
+kill	add
+kill	take_apart
+kill	identify
+kill	twist
+
+implicate	involve
+implicate	write
+implicate	resend
+implicate	color
+implicate	trim
+
+picture	visualize
+picture	warn
+picture	dedicate
+picture	despoil
+picture	discover
+
+achieve	succeed
+achieve	add
+achieve	disprove
+achieve	sparkle
+achieve	elate
+
+resonate	reproduce
+resonate	dirty
+resonate	hold
+resonate	include
+resonate	write
+
+disjoint	dislocate
+disjoint	excuse
+disjoint	lunge
+disjoint	translate
+disjoint	ask
+
+uplift	inspire
+uplift	scream
+uplift	unite
+uplift	squint
+uplift	circulate_air
+
+constrict	tighten
+constrict	time
+constrict	wind
+constrict	sniff
+constrict	forgive
+
+foist	uproot
+foist	fight
+foist	record
+foist	imply
+foist	weave
+
+whisper	murmur
+whisper	write
+whisper	date
+whisper	aerate
+whisper	inspect
+
+simper	smile
+simper	squeeze
+simper	weaken
+simper	despoil
+simper	wake_up
+
+bulge	protrude
+bulge	phrase
+bulge	become_familiar
+bulge	bounce
+bulge	inebriate
+
+arm	give_weapons
+arm	plan
+arm	restrict
+arm	leave
+arm	weaken
+
+organise	clean
+organise	be_formed
+organise	play_an_instrument
+organise	discourage_with_fear
+organise	determine
+
+uplift	inspire
+uplift	tune_out
+uplift	come_together
+uplift	slap
+uplift	write_down
+
+wink	bat
+wink	distinguish
+wink	copy
+wink	determine
+wink	press
+
+pardon	absolve
+pardon	formulate
+pardon	paste
+pardon	offend
+pardon	form
+
+lop	chop
+lop	engrave
+lop	write
+lop	imagine
+lop	organize
+
+document	scribe
+document	polish
+document	twist
+document	reference
+document	hold_still
+
+accustom	become_familiar
+accustom	shock
+accustom	transfer
+accustom	comment
+accustom	abrade
+
+power	overwhelm
+power	enclose
+power	simplify
+power	shine
+power	reverberate
+
+foist	deceive
+foist	pass
+foist	grow
+foist	refer
+foist	take_apart
+
+critique	comment
+critique	consult
+critique	castrate
+critique	carry
+critique	contend
+
+arrive	land
+arrive	preach
+arrive	abrade
+arrive	fight
+arrive	hit
+
+pine	desire
+pine	illustrate
+pine	sort
+pine	absolve
+pine	copy
+
+tour	travel
+tour	form
+tour	buff
+tour	impose
+tour	weaken
+
+achieve	accomplish
+achieve	support
+achieve	ship
+achieve	mistreat
+achieve	rustle
+
+rub	buff
+rub	separate
+rub	collect
+rub	sign
+rub	spin
+
+fight	attack
+fight	bat
+fight	caress
+fight	shut_forcefully
+fight	deteriorate
+
+redirect	divert
+redirect	dwell
+redirect	simplify
+redirect	name
+redirect	hit
+
+scribe	write
+scribe	focus
+scribe	stagnate
+scribe	reinstruct
+scribe	forgive
+
+implicate	imply
+implicate	bang
+implicate	weaken
+implicate	quarrel
+implicate	stun
+
+arrive	get_to
+arrive	discuss
+arrive	long_for
+arrive	insinuate
+arrive	address
+
+resonate	echo
+resonate	twist
+resonate	copy
+resonate	fuel
+resonate	conclude
+
+pine	yearn
+pine	total
+pine	struggle
+pine	have_meaning
+pine	separate
+
+redirect	reinstruct
+redirect	reveal
+redirect	touch
+redirect	imagine
+redirect	visit
+
